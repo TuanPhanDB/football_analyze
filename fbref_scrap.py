@@ -59,6 +59,7 @@ def get_squad_info():
 
 
 squad = get_squad_info()
-print(squad)
+file_name = 'full_data.xlsx'
+squad.to_excel(file_name)
 
 
