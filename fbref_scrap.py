@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import time
 
 #--------------------------------------------------------------------------------------------------------#
 
@@ -53,6 +54,8 @@ def get_squad_info():
 
         player_table = pd.concat([player_table, table])
 
+        time.sleep(3)
+        
         break
 
     return player_table
