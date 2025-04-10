@@ -9,21 +9,23 @@ def get_league_info():
 
     #Top 5 leagues
     leagues = {'Premier-League' : 9, 'La-Liga' : 12, 'Serie-A' : 11, 'Ligue-1' : 13, 'Bundesliga' : 20}
-
-    #Get all teams
-    #url = f"https://fbref.com/en/comps/{leagues.get(league)}/{league}-Stats"
-
-    #Testing: Getting only Premier League
-    url = f"https://fbref.com/en/comps/9/Premier-League-Stats"
-
     league_table = pd.DataFrame([])
-    table = pd.read_html(url, attrs={"id" : "results2024-202591_overall"})
+    #Get all teams
+    for league in leagues:
+        url = f"https://fbref.com/en/comps/{leagues.get(league)}/{league}-Stats"
 
-    #Target columns
-    target_cols = table[0][['Rk', 'Squad', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 
-                         'Pts', 'Pts/MP', 'xG', 'xGA', 'xGD', 'xGD/90', 'Last 5']]
-    
-    league_table = pd.concat([league_table, target_cols])
+        table = pd.read_html(url, attrs={"id" : "results2024-202591_overall"})
+
+        #Target columns
+        target_cols = table[0][['Rk', 'Squad', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 
+                            'Pts', 'Pts/MP', 'xG', 'xGA', 'xGD', 'xGD/90', 'Last 5']]
+        
+        league_table = pd.concat([league_table, target_cols])
+
+        time.sleep(3)
+
+        #Get only Premier League first
+        break
 
     return league_table
 
@@ -55,8 +57,6 @@ def get_squad_info():
         player_table = pd.concat([player_table, table])
 
         time.sleep(3)
-        
-        break
 
     return player_table
 
