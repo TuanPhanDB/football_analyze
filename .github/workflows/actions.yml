@@ -34,6 +34,7 @@ jobs:
             python -m pip install --upgrade pip
             pip install pandas
             pip install openpyxl
+            pip install lxml
 
       # Step 4: Execute the Python script to update full data
       - name: Generate full data
