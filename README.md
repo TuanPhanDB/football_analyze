@@ -14,6 +14,6 @@
 
 # What I did today:
 
-- Create workflows .yml, requirements.txt
+- Done workflows to update Excel file
 
-# Check and testing dataflows tomorrow
+# Download Excel and import to database
