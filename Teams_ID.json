@@ -1,23 +1,123 @@
 {
-    "Arsenal"                 : "18bb7c10",
-    "Aston-Villa"             : "8602292d",
-    "Bournemouth"             : "4ba7cbea",
-    "Brentford"               : "cd051869",
-    "Brighton-and-Hove-Albion": "d07537b9",
-    "Chelsea"                 : "cff3d9bb", 
-    "Crystal-Palace"          : "47c64c55", 
-    "Everton"                 : "d3fd31cc", 
-    "Fulham"                  : "fd962109", 
-    "Ipswich-Town"            : "b74092de", 
-    "Leicester-City"          : "a2d435b3", 
-    "Liverpool"               : "822bd0ba",
-    "Manchester-City"         : "b8fd03ef",
-    "Manchester-United"       : "19538871",
-    "Newcastle-United"        : "b2b47a98",
-    "Nottingham-Forest"       : "e4a775cb", 
-    "Southampton"             : "33c895d4",
-    "Tottenham-Hotspur"       : "361ca564",
-    "West-Ham-United"         : "7c21e445",
-    "Wolverhampton-Wanderers" : "8cec06e1"
+    "Premier-League":[
+        {
+            "Arsenal"                 : "18bb7c10",
+            "Aston-Villa"             : "8602292d",
+            "Bournemouth"             : "4ba7cbea",
+            "Brentford"               : "cd051869",
+            "Brighton-and-Hove-Albion": "d07537b9",
+            "Chelsea"                 : "cff3d9bb", 
+            "Crystal-Palace"          : "47c64c55", 
+            "Everton"                 : "d3fd31cc", 
+            "Fulham"                  : "fd962109", 
+            "Ipswich-Town"            : "b74092de", 
+            "Leicester-City"          : "a2d435b3", 
+            "Liverpool"               : "822bd0ba",
+            "Manchester-City"         : "b8fd03ef",
+            "Manchester-United"       : "19538871",
+            "Newcastle-United"        : "b2b47a98",
+            "Nottingham-Forest"       : "e4a775cb", 
+            "Southampton"             : "33c895d4",
+            "Tottenham-Hotspur"       : "361ca564",
+            "West-Ham-United"         : "7c21e445",
+            "Wolverhampton-Wanderers" : "8cec06e1"
+        }
+    ],
+
+    "La-Liga":[
+        {
+            "Alaves"                  : "8d6fd021",
+            "Athletic-Club"           : "2b390eca",
+            "Atletico-Madrid"         : "db3b9613",
+            "Barcelona"               : "206d90db",
+            "Real-Betis"              : "fc536746",
+            "Celta-Vigo"              : "f25da7fb", 
+            "Espanyol"                : "a8661628", 
+            "Getafe"                  : "7848bd64", 
+            "Girona"                  : "9024a00a", 
+            "Las-Palmas"              : "0049d422", 
+            "Leganes"                 : "7c6f2c78", 
+            "Mallorca"                : "2aa12281",
+            "Osasuna"                 : "03c57e2b",
+            "Rayo-Vallecano"          : "98e8af82",
+            "Real-Madrid"             : "53a2f082",
+            "Real-Sociedad"           : "e31d1cd9", 
+            "Sevilla"                 : "ad2be733",
+            "Valencia"                : "dcc91a7b",
+            "Valladolid"              : "17859612",
+            "Villarreal"              : "2a8183b3"
+        }
+    ],
+
+    "Serie-A":[
+        {
+            "Atalanta"                 : "922493f3",
+            "Bologna"                  : "1d8099f8",
+            "Cagliari"                 : "c4260e09",
+            "Como"                     : "28c9c3cd",
+            "Empoli"                   : "a3d88bd8",
+            "Fiorentina"               : "421387cf", 
+            "Genoa"                    : "658bf2de", 
+            "Hellas-Verona"            : "0e72edf2", 
+            "Internazionale"           : "d609edc0", 
+            "Juventus"                 : "e0652b02", 
+            "Lazio"                    : "7213da33", 
+            "Lecce"                    : "ffcbe334",
+            "Milan"                    : "dc56fe14",
+            "Monza"                    : "21680aa4",
+            "Napoli"                   : "d48ad4ff",
+            "Parma"                    : "eab4234c", 
+            "Roma"                     : "cf74a709",
+            "Torino"                   : "105360fe",
+            "Udinese"                  : "04eea015",
+            "Venezia"                  : "af5d5982"
+        }
+    ],
+
+    "Ligue-1":[
+        {
+            "Angers"                   : "69236f98",
+            "Auxerre"                  : "5ae09109",
+            "Brest"                    : "fb08dbb3",
+            "Le-Havre"                 : "5c2737db",
+            "Lens"                     : "fd4e0f7d",
+            "Lille"                    : "cb188c0c", 
+            "Lyon"                     : "d53c0b06", 
+            "Marseille"                : "5725cc7b", 
+            "Monaco"                   : "fd6114db", 
+            "Montpellier"              : "281b0e73", 
+            "Nantes"                   : "d7a486cd", 
+            "Nice"                     : "132ebc33",
+            "Paris-Saint-Germain"      : "e2d8892c",
+            "Reims"                    : "7fdd64e0",
+            "Rennes"                   : "b3072e00",
+            "Saint-Etienne"            : "d298ef2c", 
+            "Strasbourg"               : "c0d3eab4",
+            "Toulouse"                 : "3f8c4b5f"
+        }
+    ],
+
+    "Bundesliga":[
+        {
+            "Augsburg"                 : "0cdc4311",
+            "Bayern-Munich"            : "054efa67",
+            "Bochum"                   : "b42c6323",
+            "Dortmund"                 : "add600ae",
+            "Eintracht-Frankfurt"      : "f0ac8ee6",
+            "Freiburg"                 : "a486e511", 
+            "Monchengladbach"          : "32f3ee20", 
+            "Heidenheim"               : "18d9d2a7", 
+            "Hoffenheim"               : "033ea6b8", 
+            "Holstein-Kiel"            : "2ac661d9", 
+            "Bayer-Leverkusen"         : "c7a9f859", 
+            "Mainz-05"                 : "a224b06a",
+            "RB-Leipzig"               : "acbb6a5b",
+            "St-Pauli"                 : "54864664",
+            "Stuttgart"                : "598bc722",
+            "Union-Berlin"             : "7a41008f", 
+            "Werder-Bremen"            : "62add3bf",
+            "Wolfsburg"                : "4eaa11d7"
+        }
+    ]
 
 }
