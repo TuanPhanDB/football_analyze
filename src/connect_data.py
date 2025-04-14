@@ -1,25 +1,13 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
+league_names = ["Premier_League", "La_Liga", "Serie_A", "Ligue_1", "Bundesliga"]
+for league in league_names:
+    league_url = f"https://github.com/TuanPhanDB/football_analyze/blob/main/league_standings/{league}_standing.xlsx"
 
-# github_url = ""
 
-# #Parameters for database connection
-# user="postgres"
-# password="tuanp123"
-# host ="localhost"
-# database="football_data"
-# port=5432
+squad_url = "https://github.com/TuanPhanDB/football_analyze/blob/main/squad_info.xlsx"
 
-# # Create connection string
-# connection_string = f"postgresql://{user}:{password}@{host}:{port}/{database}"
-
-# # Connect to the PostgreSQL database
-# engine = create_engine(connection_string)
-
-# df = pd.read_excel(github_url, engine='openpyx1')
-
-# df.to_sql()
 
 def test_sqlalchemy_connection():
     try:
