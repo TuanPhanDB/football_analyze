@@ -35,7 +35,7 @@ jobs:
 
       # Step 4: Execute the Python script to update full data
       - name: Generate full data
-        run: python fbref_scrap.py
+        run: python src/fbref_scrap.py
 
       # Step 8: Commit and push the generated full data file if there are changes
       - name: Commit files
