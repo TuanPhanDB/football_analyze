@@ -2,18 +2,13 @@
 
 # Steps:
 
-- Retrieve all required data from https://fbref.com/en/
+- Retrieve all required data from https://fbref.com/en/ ✅
 
-- Using workflows to refresh data every day.
+- Using workflows to refresh data every day ✅
 
-- Establish connection to local database.
+- Establish connection to local database ✅
 
 - After the local database is ready, use Power BI to connect to the database.
 
 - Visualize data
 
-# What I did today:
-
-- Done workflows to update Excel file
-
-# Download Excel and import to database
