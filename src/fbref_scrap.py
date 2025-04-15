@@ -104,7 +104,7 @@ league_list = get_league_info()
 for league, name in zip(league_list, league_names):
     file_name = f'{name}_standing.csv'
     file_path = os.path.join(output_dir, file_name)
-    league.to_excel(file_path)
+    league.to_csv(file_path)
 
 # Generate squad info
 squad = get_squad_info()
