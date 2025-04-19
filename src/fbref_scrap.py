@@ -26,11 +26,14 @@ def get_squad_info():
                 #That is why using table = table[0] to extract the first Df from the list
                 table = table[0]
 
-                #Add squad name to df
-                table['Squad'] = team
-
                 #Drop multi header
                 table.columns = table.columns.droplevel(0)
+
+                #Add squad name to df
+                table['Squad'] = team           
+
+                #Add league name
+                table['League'] = league
 
                 #Filter only player who played
                 table = table[table['MP'] > 0]
