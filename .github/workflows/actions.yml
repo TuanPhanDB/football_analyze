@@ -4,7 +4,9 @@ on:
   schedule:
     # Runs every day
     # - cron: '0 0 * * *'
-    - cron: '0 * * * *'
+
+    # Run every Monday
+    - cron: '0 0 * * MON'
 
 env:
   token: ${{ secrets.SECRET_TOKEN }}
