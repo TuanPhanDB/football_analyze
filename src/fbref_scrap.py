@@ -41,7 +41,7 @@ def get_squad_info():
                 player_table = pd.concat([player_table, table])
                 player_table.reset_index()
 
-                time.sleep(3)
+                time.sleep(5)
             
             except Exception as e:
                 print(f"Error retrieving data for {team}: {str(e)}")
