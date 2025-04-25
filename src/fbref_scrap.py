@@ -6,48 +6,75 @@ import os
 #--------------------------------------------------------------------------------------------------------#
 #------------------------------- Squad and Players information ------------------------------------------#
 #--------------------------------------------------------------------------------------------------------#
-def get_squad_info():
+def get_info(target = "squad"):
 
     with open('Teams_ID.json', 'r') as file:
         team_squad = json.load(file)
 
-    player_table = pd.DataFrame([])
+    info_table = pd.DataFrame([])
+    
+    request_count = 0
+    start_time = time.time()
 
     for league in team_squad:
         league_teams = team_squad[league][0]
 
         for team, team_id in league_teams.items():
             try:
-                url = f"https://fbref.com/en/squads/{team_id}/2024-2025/all_comps/{team}-Stats-All-Competitions"
+                if request_count >= 5:
+                    elapsed_time = time.time() - start_time
+                    if elapsed_time < 60:
+                        time.sleep(60 - elapsed_time)  # Wait until the next minute
+                    request_count = 0
+                    start_time = time.time()
 
-                table = pd.read_html(url, attrs={"id" : "stats_standard_combined"})
+                if league == "Premier-League":
+                    league_id = 9
+                if league == "La-Liga":
+                    league_id = 12
+                if league == "Serie-A":
+                    league_id = 11
+                if league == "Ligue-1":
+                    league_id = 13
+                if league == "Bundesliga":
+                    league_id = 20
+
+                url = f"https://fbref.com/en/squads/{team_id}/2024-2025/c{league_id}/{team}-Stats-{league}"
 
                 #When use read_html, it will wrap all the table into a list, even there is only 1 table.
                 #That is why using table = table[0] to extract the first Df from the list
-                table = table[0]
+                if target == "squad":
+                    info_data = pd.read_html(url, attrs={"id": f"stats_standard_{league_id}"})[0]
+                
+                if target == "gk":
+                    info_data = pd.read_html(url, attrs={"id": f"stats_keeper_{league_id}"})[0]
+                    info_data = info_data.iloc[:-2]
 
                 #Drop multi header
-                table.columns = table.columns.droplevel(0)
+                info_data.columns = info_data.columns.droplevel(0)
 
                 #Add squad name to df
-                table['Squad'] = team           
+                info_data['Squad'] = team           
 
                 #Add league name
-                table['League'] = league
+                info_data['League'] = league
 
                 #Filter only player who played
-                table = table[table['MP'] > 0]
+                info_data = info_data[info_data['MP'] > 0]
 
-                player_table = pd.concat([player_table, table])
-                player_table.reset_index()
+                #Drop last 2 rows of data if gk
+                #res_data = res_data.iloc[:-2]
 
-                time.sleep(5)
-            
+                info_table = pd.concat([info_table, info_data])
+                info_table.reset_index()
+
+                request_count += 1
+
             except Exception as e:
                 print(f"Error retrieving data for {team}: {str(e)}")
                 continue
 
-    return player_table
+    return info_table
 
 #--------------------------------------------------------------------------------------------------------#
 #-------------------------------- Leagues Standing ------------------------------------------------------#
@@ -110,8 +137,13 @@ for league, name in zip(league_list, league_names):
     league.to_csv(file_path)
 
 # Generate squad info
-squad = get_squad_info()
-file_name = 'squad_info.csv'
-squad.to_csv(file_name)
+squad = get_info()
+file_name_squad = 'squad_info.csv'
+squad.to_csv(file_name_squad)
+
+# Generate gk info
+gk = get_info("gk")
+file_name_gk = 'gk_info.csv'
+gk.to_csv(file_name_gk)
 
 
