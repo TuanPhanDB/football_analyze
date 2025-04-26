@@ -48,7 +48,6 @@ def get_info(target = "squad"):
                 
                 if target == "gk":
                     info_data = pd.read_html(url, attrs={"id": f"stats_keeper_{league_id}"})[0]
-                    info_data = info_data.iloc[:-2]
 
                 #Drop multi header
                 info_data.columns = info_data.columns.droplevel(0)
@@ -62,8 +61,8 @@ def get_info(target = "squad"):
                 #Filter only player who played
                 info_data = info_data[info_data['MP'] > 0]
 
-                #Drop last 2 rows of data if gk
-                #res_data = res_data.iloc[:-2]
+                #Drop last 2 rows of data "Squad Total" and "Opponent Total"
+                info_data = info_data.iloc[:-2]
 
                 info_table = pd.concat([info_table, info_data])
                 info_table.reset_index()
