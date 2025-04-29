@@ -63,8 +63,12 @@ for league in league_names:
 # Load squad to database
 squad_df = data_loader('', "squad_info")
 
+# Load gk to database
+gk_df = data_loader('', "gk_info")
+
 # Write to database
 squad_df.to_sql("squad_info", engine, if_exists='replace', index=False, chunksize=1000)
+gk_df.to_sql("gk_info", engine, if_exists='replace', index=False, chunksize=1000)
 
 
 
