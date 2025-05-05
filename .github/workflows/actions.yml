@@ -2,9 +2,9 @@ name: fbref daily data
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-    # Run every Monday
-    #- cron: '0 0 * * MON'
+    # Runs every Monday
+    - cron: '0 0 * * MON'
+
 
 env:
   token: ${{ secrets.SECRET_TOKEN }}
