@@ -157,14 +157,14 @@ for league, name in zip(league_list, league_names):
 #--------------------------------------------------------------------------------------------------------#
 # Generate all stats files
 output_dir_info = "stats_info"
-os.makedirs(output_dir, exist_ok=True)
+os.makedirs(output_dir_info, exist_ok=True)
 
 target_list = ["squad", "gk", "shooting", "passing", "gca", "defense", "possession", "miscellaneous"]
 
 for target in target_list:
     df = get_info(target)
     file_name = f'{target}_stats.csv'
-    file_path = os.path.join(output_dir, file_name)
+    file_path = os.path.join(output_dir_info, file_name)
     df.to_csv(file_name)
 
 
