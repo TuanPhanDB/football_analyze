@@ -1,42 +1,76 @@
 import pandas as pd
 from sqlalchemy import create_engine
+import requests
+import os
+from io import StringIO
+from dotenv import load_dotenv
 
+load_dotenv()
 
-# github_url = ""
+def data_loader(path , name):
+    token = os.environ["token"]
+    owner = 'TuanPhanDB'
+    repo = 'football_analyze'
+    path = f'{path}/{name}.csv'
 
-# #Parameters for database connection
-# user="postgres"
-# password="tuanp123"
-# host ="localhost"
-# database="football_data"
-# port=5432
-
-# # Create connection string
-# connection_string = f"postgresql://{user}:{password}@{host}:{port}/{database}"
-
-# # Connect to the PostgreSQL database
-# engine = create_engine(connection_string)
-
-# df = pd.read_excel(github_url, engine='openpyx1')
-
-# df.to_sql()
-
-def test_sqlalchemy_connection():
     try:
-        user=""
-        password=""
-        host =""
-        database=""
-        port=
+        # send a request
+        r = requests.get(
+        'https://api.github.com/repos/{owner}/{repo}/contents/{path}'.format(
+        owner=owner, repo=repo, path=path),
+        headers={
+            'accept': 'application/vnd.github.v3.raw',
+            'authorization': 'token {}'.format(token)
+                }
+        )
 
-        # Create connection string
-        connection_string = f"postgresql://{user}:{password}@{host}:{port}/{database}"
+        # convert string to StringIO object
+        string_io_obj = StringIO(r.text)
 
-        engine = create_engine(connection_string)
-        conn = engine.connect()
-        print("✅ PostgreSQL connection successful (SQLAlchemy)!")
-        conn.close()
+        # Load data to df
+        df = pd.read_csv(string_io_obj)
+
+        return df
+     
     except Exception as e:
-        print("❌ Connection failed:", e)
+        print("Error", e)
 
-test_sqlalchemy_connection()
+
+# Connection parameters
+user=""
+password=""
+host =""
+database=""
+port=
+
+# Create connection string
+connection_string = f"postgresql://{user}:{password}@{host}:{port}/{database}"
+
+engine = create_engine(connection_string)
+
+# Load leagues standing to database
+league_names = ["Premier_League", "La_Liga", "Serie_A", "Ligue_1", "Bundesliga"]
+for league in league_names:
+    # Retrieve data from GitHub
+    df = data_loader('league_standings', f'{league}_standing')
+
+    # Custom name for each table
+    table_name = f"{league}_standing"
+
+    # Write to database
+    df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
+
+# Load stats info to database
+stats_list = ["squad", "gk", "shooting", "passing", "gca", "defense", "possession", "miscellaneous"]
+for stats in stats_list:
+    df = data_loader('stats_info', f'{stats}_stats')
+
+    # Custom name for each table
+    table_name = f"{stats}_stats"
+
+    # Write to database
+    df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
+
+
+
+
