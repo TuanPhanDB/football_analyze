@@ -2,8 +2,9 @@ name: fbref daily data
 
 on:
   schedule:
+    - cron: '0 0 * * *'
     # Runs every Monday
-    - cron: '0 0 * * MON'
+    #- cron: '0 0 * * MON'
 
 
 env:
