@@ -49,6 +49,24 @@ def get_info(target = "squad"):
                 if target == "gk":
                     info_data = pd.read_html(url, attrs={"id": f"stats_keeper_{league_id}"})[0]
 
+                if target == "shooting":
+                    info_data = pd.read_html(url, attrs={"id": f"stats_shooting_{league_id}"})[0]
+                
+                if target == "passing":
+                    info_data = pd.read_html(url, attrs={"id": f"stats_passing_{league_id}"})[0]
+
+                if target == "gca":
+                    info_data = pd.read_html(url, attrs={"id": f"stats_gca_{league_id}"})[0]
+
+                if target == "defense":
+                    info_data = pd.read_html(url, attrs={"id": f"stats_defense_{league_id}"})[0]
+                
+                if target == "possession": 
+                    info_data = pd.read_html(url, attrs={"id": f"stats_possession_{league_id}"})[0]
+
+                if target == "miscellaneous": 
+                    info_data = pd.read_html(url, attrs={"id": f"stats_misc_{league_id}"})[0]
+
                 #Drop multi header
                 info_data.columns = info_data.columns.droplevel(0)
 
@@ -58,8 +76,9 @@ def get_info(target = "squad"):
                 #Add league name
                 info_data['League'] = league
 
-                #Filter only player who played
-                info_data = info_data[info_data['MP'] > 0]
+                #Filter only player who played in squad and gk df
+                if (target == "squad" | target == "gk"):
+                    info_data = info_data[info_data['MP'] > 0]
 
                 #Drop last 2 rows of data "Squad Total" and "Opponent Total"
                 info_data = info_data.iloc[:-2]
@@ -135,14 +154,18 @@ for league, name in zip(league_list, league_names):
     file_path = os.path.join(output_dir, file_name)
     league.to_csv(file_path)
 
-# Generate squad info
-squad = get_info()
-file_name_squad = 'squad_info.csv'
-squad.to_csv(file_name_squad)
+#--------------------------------------------------------------------------------------------------------#
+# Generate all stats files
+output_dir_info = "stats_info"
+os.makedirs(output_dir, exist_ok=True)
 
-# Generate gk info
-gk = get_info("gk")
-file_name_gk = 'gk_info.csv'
-gk.to_csv(file_name_gk)
+target_list = ["squad", "gk", "shooting", "passing", "gca", "defense", "possession", "miscellaneous"]
+
+for target in target_list:
+    df = get_info(target)
+    file_name = f'{target}_stats.csv'
+    file_path = os.path.join(output_dir, file_name)
+    df.to_csv(file_name)
+
 
 

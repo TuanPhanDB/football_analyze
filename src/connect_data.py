@@ -60,15 +60,17 @@ for league in league_names:
     # Write to database
     df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
 
-# Load squad to database
-squad_df = data_loader('', "squad_info")
+# Load stats info to database
+stats_list = ["squad", "gk", "shooting", "passing", "gca", "defense", "possession", "miscellaneous"]
+for stats in stats_list:
+    df = data_loader('stats_info', f'{stats}_stats')
 
-# Load gk to database
-gk_df = data_loader('', "gk_info")
+    # Custom name for each table
+    table_name = f"{stats}_stats"
 
-# Write to database
-squad_df.to_sql("squad_info", engine, if_exists='replace', index=False, chunksize=1000)
-gk_df.to_sql("gk_info", engine, if_exists='replace', index=False, chunksize=1000)
+    # Write to database
+    df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
+
 
 
 
