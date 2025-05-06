@@ -61,7 +61,7 @@ for league in league_names:
     df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
 
 # Load stats info to database
-stats_list = ["squad", "gk", "shooting", "passing", "gca", "defense", "possession", "miscellaneous"]
+stats_list = ["squad", "gk", "shooting", "passing", "gca", "defense", "possession", "miscellaneous", "club_mapping"]
 for stats in stats_list:
     df = data_loader('', f'{stats}_stats')
 
@@ -70,6 +70,8 @@ for stats in stats_list:
 
     # Write to database
     df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
+
+
 
 
 
