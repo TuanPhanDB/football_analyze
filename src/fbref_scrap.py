@@ -153,6 +153,6 @@ for target in target_list:
     df = get_info(target)
     file_name = f'{target}_stats.csv'
     file_path = os.path.join(output_dir_info, file_name)
-    df.to_csv(file_name)
+    df.to_csv(file_path)
 
 
