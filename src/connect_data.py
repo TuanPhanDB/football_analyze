@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def data_loader(path , name):
+def data_loader(path, name):
     token = os.environ["token"]
     owner = 'TuanPhanDB'
     repo = 'football_analyze'
@@ -61,15 +61,14 @@ for league in league_names:
     df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
 
 # Load stats info to database
-stats_list = ["squad", "gk", "shooting", "passing", "gca", "defense", "possession", "miscellaneous", "club_mapping"]
-for stats in stats_list:
-    df = data_loader('stats_info', f'{stats}_stats')
+stats_list = ["squad_stats", "gk_stats", "shooting_stats", "passing_stats", "gca_stats", 
+              "defense_stats", "possession_stats", "miscellaneous_stats", "club_mapping"]
 
-    # Custom name for each table
-    table_name = f"{stats}_stats"
+for stats in stats_list:
+    df = data_loader('stats_info', stats)
 
     # Write to database
-    df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
+    df.to_sql(stats, engine, if_exists='replace', index=False, chunksize=1000)
 
 
 
