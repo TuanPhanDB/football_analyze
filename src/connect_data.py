@@ -63,7 +63,7 @@ for league in league_names:
 # Load stats info to database
 stats_list = ["squad", "gk", "shooting", "passing", "gca", "defense", "possession", "miscellaneous", "club_mapping"]
 for stats in stats_list:
-    df = data_loader('', f'{stats}_stats')
+    df = data_loader('stats_info', f'{stats}_stats')
 
     # Custom name for each table
     table_name = f"{stats}_stats"
