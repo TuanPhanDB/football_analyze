@@ -37,11 +37,11 @@ def data_loader(path , name):
 
 
 # Connection parameters
-user="postgres"
-password="tuanp123"
-host ="localhost"
-database="football_data"
-port=5432
+user=""
+password=""
+host =""
+database=""
+port=
 
 # Create connection string
 connection_string = f"postgresql://{user}:{password}@{host}:{port}/{database}"
