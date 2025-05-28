@@ -104,7 +104,7 @@ def get_league_info():
 
             #Target columns
             target_cols = table[0][['Rk', 'Squad', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 
-                                'Pts', 'Pts/MP', 'xG', 'xGA', 'xGD', 'xGD/90', 'Last 5']]
+                                'Pts', 'Pts/MP', 'xG', 'xGA', 'xGD', 'xGD/90']]
             
             # Assign to the appropriate DataFrame
             if league == 'Premier-League':
