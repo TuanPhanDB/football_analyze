@@ -76,7 +76,7 @@
 74,Luis Sinisterra,co COL,"FW,MF",25.0,2.6,73,93,78.5,1067,200,44,48,91.7,22,32,68.8,5,5,100.0,1,1.4,1.3,-0.4,9,6,2,2,6,Matches,Bournemouth,Premier-League
 75,Philip Billing,dk DEN,MF,28.0,2.0,70,102,68.6,1023,400,43,51,84.3,19,27,70.4,4,15,26.7,0,1.1,1.0,-1.1,9,9,7,2,15,Matches,Bournemouth,Premier-League
 76,Max Aarons,eng ENG,DF,24.0,1.0,50,63,79.4,887,361,21,25,84.0,24,29,82.8,4,7,57.1,0,0.0,0.0,0.0,0,8,0,0,8,Matches,Bournemouth,Premier-League
-77,Daniel Jebbison,eng ENG,FW,20.0,1.3,33,42,78.6,361,44,21,23,91.3,3,5,60.0,1,2,50.0,0,0.2,0.1,-0.2,3,1,1,0,3,Matches,Bournemouth,Premier-League
+77,Daniel Jebbison,ca CAN,FW,20.0,1.3,33,42,78.6,361,44,21,23,91.3,3,5,60.0,1,2,50.0,0,0.2,0.1,-0.2,3,1,1,0,3,Matches,Bournemouth,Premier-League
 78,Ben Winterburn,eng ENG,"MF,FW",19.0,0.3,5,7,71.4,93,44,2,3,66.7,3,4,75.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,Bournemouth,Premier-League
 79,Julio Soler,ar ARG,"DF,FW",19.0,0.1,11,14,78.6,104,18,11,13,84.6,0,1,0.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,Bournemouth,Premier-League
 80,Remy Rees-Dottin,eng ENG,FW,18.0,0.0,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,Bournemouth,Premier-League
@@ -1220,7 +1220,7 @@
 1218,Tommaso Pobega,it ITA,MF,25.0,13.1,384,468,82.1,6373,1664,185,207,89.4,164,189,86.8,26,51,51.0,2,1.4,0.8,0.6,12,51,5,3,42,Matches,Bologna,Serie-A
 1219,Lorenzo De Silvestri,it ITA,DF,36.0,11.8,446,564,79.1,7881,3173,198,223,88.8,205,252,81.3,38,66,57.6,0,0.3,0.4,-0.3,5,40,6,5,46,Matches,Bologna,Serie-A
 1220,Emil Holm,se SWE,DF,24.0,12.6,560,735,76.2,10735,3499,235,271,86.7,255,312,81.7,67,127,52.8,1,0.7,0.9,0.3,10,47,14,8,49,Matches,Bologna,Serie-A
-1221,Charalambos Lykogiannis,gr GRE,DF,30.0,11.6,504,706,71.4,9875,3209,194,224,86.6,245,319,76.8,59,134,44.0,4,1.6,2.1,2.4,19,43,13,12,49,Matches,Bologna,Serie-A
+1221,Charalampos Lykogiannis,gr GRE,DF,30.0,11.6,504,706,71.4,9875,3209,194,224,86.6,245,319,76.8,59,134,44.0,4,1.6,2.1,2.4,19,43,13,12,49,Matches,Bologna,Serie-A
 1222,Thijs Dallinga,nl NED,FW,23.0,12.8,210,293,71.7,2944,450,121,157,77.1,62,87,71.3,11,14,78.6,2,0.6,0.7,1.4,12,14,4,0,17,Matches,Bologna,Serie-A
 1223,Federico Ravaglia,it ITA,GK,24.0,11.7,371,473,78.4,9250,6098,67,67,100.0,210,212,99.1,92,192,47.9,0,0.0,0.0,0.0,1,14,0,0,0,Matches,Bologna,Serie-A
 1224,Lewis Ferguson,sct SCO,MF,24.0,10.9,569,658,86.5,9928,2246,246,269,91.4,268,294,91.2,43,66,65.2,1,1.1,0.8,-0.1,14,57,8,0,53,Matches,Bologna,Serie-A
@@ -2348,7 +2348,7 @@
 2346,Frank Magri,cm CMR,"FW,MF",24.0,16.8,178,251,70.9,2361,438,103,133,77.4,55,71,77.5,5,13,38.5,1,1.5,1.9,-0.5,9,15,7,1,25,Matches,Toulouse,Ligue-1
 2347,Jaydee Canvot,fr FRA,"DF,MF",18.0,12.3,462,536,86.2,8029,2340,201,218,92.2,224,246,91.1,30,51,58.8,0,0.7,0.3,-0.7,4,42,6,2,41,Matches,Toulouse,Ligue-1
 2348,Shavy Babicka,ga GAB,"MF,FW",24.0,13.2,196,292,67.1,2616,643,118,155,76.1,60,85,70.6,5,15,33.3,2,1.6,1.9,0.4,13,8,13,5,21,Matches,Toulouse,Ligue-1
-2349,Waren Kamanzi,no NOR,"DF,MF",23.0,11.4,399,481,83.0,5867,1419,215,238,90.3,158,182,86.8,13,23,56.5,1,1.0,0.5,0.0,12,27,8,0,33,Matches,Toulouse,Ligue-1
+2349,Warren Kamanzi,no NOR,"DF,MF",23.0,11.4,399,481,83.0,5867,1419,215,238,90.3,158,182,86.8,13,23,56.5,1,1.0,0.5,0.0,12,27,8,0,33,Matches,Toulouse,Ligue-1
 2350,Rasmus Nicolaisen,dk DEN,DF,27.0,6.9,339,385,88.1,6199,2362,145,160,90.6,159,169,94.1,31,48,64.6,1,0.2,0.2,0.8,2,20,2,0,27,Matches,Toulouse,Ligue-1
 2351,Ümit Akdag,ro ROU,DF,20.0,5.6,274,348,78.7,4648,1667,122,144,84.7,137,152,90.1,13,39,33.3,0,0.1,0.1,-0.1,2,18,1,0,29,Matches,Toulouse,Ligue-1
 2352,Kjetil Haug,no NOR,GK,26.0,5.5,82,130,63.1,2380,1676,11,11,100.0,41,42,97.6,30,77,39.0,0,0.0,0.0,0.0,0,3,0,0,0,Matches,Toulouse,Ligue-1
