@@ -252,7 +252,7 @@
 250,Carlos Vinícius,br BRA,"MF,FW",29.0,0.2,7,0,1,3,3,2,7,1,1,100.0,0,0.0,7,24,11,1,0,1,1,0,6,3,Matches,Fulham,Premier-League
 251,Jay Stansfield,eng ENG,MF,21.0,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,Matches,Fulham,Premier-League
 252,Dara O'Shea,ie IRL,DF,25.0,34.7,2022,393,1169,730,129,51,2022,2,1,50.0,1,50.0,897,4023,2069,3,2,0,12,4,1162,8,Matches,Ipswich-Town,Premier-League
-253,Leif Davis,eng ENG,DF,24.0,30.5,1562,117,534,520,527,42,1562,38,13,34.2,18,47.4,708,3804,2073,52,31,11,37,16,835,137,Matches,Ipswich-Town,Premier-League
+253,Leif Davis,eng ENG,DF,24.0,30.5,1562,117,534,520,527,42,1562,38,13,34.2,18,47.4,708,3698,2073,52,31,11,37,16,835,137,Matches,Ipswich-Town,Premier-League
 254,Liam Delap,eng ENG,FW,21.0,28.8,682,29,78,291,335,92,680,86,40,46.5,37,43.0,445,3283,1586,61,46,30,104,60,537,110,Matches,Ipswich-Town,Premier-League
 255,Sam Morsy,eg EGY,MF,32.0,30.6,1683,97,498,953,248,6,1683,29,17,58.6,9,31.0,852,4649,2101,22,24,3,17,13,1137,13,Matches,Ipswich-Town,Premier-League
 256,Omari Hutchinson,eng ENG,"MF,FW",20.0,28.7,1259,17,200,516,567,92,1259,137,51,37.2,68,49.6,779,6035,2976,97,39,37,80,58,893,159,Matches,Ipswich-Town,Premier-League
@@ -315,14 +315,14 @@
 313,Olabade Aluko,,DF,,0.0,6,0,0,6,1,0,6,1,0,0.0,1,100.0,2,1,0,0,0,0,0,1,2,0,Matches,Leicester-City,Premier-League
 314,Will Alves,eng ENG,FW,19.0,0.0,1,0,0,0,1,0,1,0,0,,0,,1,5,5,0,0,0,0,0,1,1,Matches,Leicester-City,Premier-League
 315,Michael Golding,eng ENG,MF,18.0,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,Matches,Leicester-City,Premier-League
-316,Mohamed Salah,eg EGY,FW,32.0,37.5,1695,11,97,500,1119,356,1686,137,58,42.3,72,52.6,1149,6973,3695,154,59,126,116,67,1407,488,Matches,Liverpool,Premier-League
+316,Mohamed Salah,eg EGY,FW,32.0,37.5,1695,11,97,500,1119,356,1686,137,58,42.3,72,52.6,1150,6909,3700,155,59,127,116,67,1407,488,Matches,Liverpool,Premier-League
 317,Virgil van Dijk,nl NED,DF,33.0,37.0,3300,450,1317,1827,166,48,3300,5,3,60.0,2,40.0,1856,8754,4846,22,24,3,10,5,2281,6,Matches,Liverpool,Premier-League
 318,Ryan Gravenberch,nl NED,MF,22.0,35.1,2343,117,509,1354,512,26,2343,81,37,45.7,30,37.0,1396,7452,3742,70,75,10,55,26,1669,55,Matches,Liverpool,Premier-League
-319,Alexis Mac Allister,ar ARG,MF,25.0,28.9,1860,56,284,960,637,60,1860,42,16,38.1,21,50.0,914,3773,2009,36,43,5,31,22,1227,80,Matches,Liverpool,Premier-League
+319,Alexis Mac Allister,ar ARG,MF,25.0,28.9,1860,56,284,960,637,60,1860,42,16,38.1,21,50.0,915,3782,2018,36,43,5,31,22,1228,80,Matches,Liverpool,Premier-League
 320,Ibrahima Konaté,fr FRA,DF,25.0,28.4,2185,223,928,1145,119,23,2185,6,3,50.0,2,33.3,1290,6124,3603,25,15,0,8,2,1576,3,Matches,Liverpool,Premier-League
 321,Dominik Szoboszlai,hu HUN,MF,23.0,27.7,1584,32,220,761,626,104,1584,41,21,51.2,17,41.5,805,4223,2372,72,49,18,37,23,1073,127,Matches,Liverpool,Premier-League
-322,Andrew Robertson,sct SCO,DF,30.0,27.6,2084,92,539,940,620,53,2084,18,7,38.9,10,55.6,1107,4941,2848,64,52,6,25,13,1399,108,Matches,Liverpool,Premier-League
-323,Alisson,br BRA,GK,31.0,27.9,1011,742,991,20,0,0,1011,1,1,100.0,0,0.0,657,2609,1586,0,0,0,1,0,618,0,Matches,Liverpool,Premier-League
+322,Andrew Robertson,sct SCO,DF,30.0,27.6,2083,92,538,940,620,53,2083,18,7,38.9,10,55.6,1107,4939,2849,64,52,6,25,13,1398,108,Matches,Liverpool,Premier-League
+323,Alisson,br BRA,GK,31.0,27.9,1010,741,990,20,0,0,1010,1,1,100.0,0,0.0,658,2611,1586,0,0,0,1,0,618,0,Matches,Liverpool,Premier-League
 324,Luis Díaz,co COL,FW,27.0,26.7,1184,17,90,409,706,167,1184,116,53,45.7,51,44.0,780,5710,2960,108,55,56,55,49,933,293,Matches,Liverpool,Premier-League
 325,Trent Alexander-Arnold,eng ENG,DF,25.0,26.3,2253,88,593,1014,660,44,2253,37,17,45.9,17,45.9,1184,5358,2860,51,36,9,19,15,1436,94,Matches,Liverpool,Premier-League
 326,Cody Gakpo,nl NED,FW,25.0,21.5,888,28,91,258,557,110,888,61,31,50.8,21,34.4,605,4320,2208,59,34,28,45,24,677,278,Matches,Liverpool,Premier-League
@@ -799,7 +799,7 @@
 797,Borja Mayoral,es ESP,FW,27.0,12.4,366,9,27,174,171,40,365,20,6,30.0,10,50.0,209,852,321,10,9,8,23,20,251,43,Matches,Getafe,La-Liga
 798,Álvaro Rodríguez,uy URU,FW,20.0,9.5,415,15,27,194,204,55,415,33,16,48.5,15,45.5,186,735,221,6,13,2,37,20,300,50,Matches,Getafe,La-Liga
 799,Carles Aleñá,es ESP,"MF,FW",26.0,5.0,163,5,26,84,56,10,163,4,3,75.0,1,25.0,88,427,169,3,2,1,3,6,98,10,Matches,Getafe,La-Liga
-800,Jesús Santiago,es ESP,MF,20.0,4.1,184,7,40,109,37,4,184,7,1,14.3,6,85.7,97,490,239,4,5,0,8,0,97,4,Matches,Getafe,La-Liga
+800,Yellu Santiago,es ESP,MF,20.0,4.1,184,7,40,109,37,4,184,7,1,14.3,6,85.7,97,490,239,4,5,0,8,0,97,4,Matches,Getafe,La-Liga
 801,Nabil Aberdin,fr FRA,MF,21.0,2.9,87,6,21,56,10,2,87,3,2,66.7,1,33.3,34,148,74,2,0,0,1,1,36,2,Matches,Getafe,La-Liga
 802,Peter González,do DOM,"MF,FW",22.0,5.3,211,3,29,68,119,16,211,15,3,20.0,10,66.7,111,622,187,8,5,4,17,15,122,33,Matches,Getafe,La-Liga
 803,Abdoulaye Keita,es ESP,"FW,MF",21.0,1.1,41,3,10,19,12,1,41,3,1,33.3,2,66.7,22,84,24,1,0,0,3,3,25,4,Matches,Getafe,La-Liga
