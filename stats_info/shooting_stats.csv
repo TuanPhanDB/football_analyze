@@ -100,7 +100,7 @@
 98,Fabio Carvalho,pt POR,"FW,MF",21.0,5.1,2,12,5,41.7,2.37,0.99,0.17,0.4,14.7,0,0,0,2.5,2.5,0.21,-0.5,-0.5,Matches,Brentford,Premier-League
 99,Ben Mee,eng ENG,DF,34.0,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Brentford,Premier-League
 100,Thiago,br BRA,"FW,MF",23.0,1.9,0,2,0,0.0,1.03,0.0,0.0,,14.8,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches,Brentford,Premier-League
-101,Hákon Rafn Valdimarsson,is ISL,GK,22.0,1.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Brentford,Premier-League
+101,Hákon Valdimarsson,is ISL,GK,22.0,1.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Brentford,Premier-League
 102,Edmond-Paris Maghoma,eng ENG,"MF,FW",23.0,1.3,0,1,0,0.0,0.76,0.0,0.0,,23.8,0,0,0,0.1,0.1,0.12,-0.1,-0.1,Matches,Brentford,Premier-League
 103,Rico Henry,eng ENG,DF,27.0,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Brentford,Premier-League
 104,Yunus Emre Konak,tr TUR,"FW,MF",18.0,0.5,0,1,0,0.0,2.14,0.0,0.0,,21.4,0,0,0,0.2,0.2,0.15,-0.2,-0.2,Matches,Brentford,Premier-League
@@ -376,7 +376,7 @@
 374,Matthijs de Ligt,nl NED,DF,24.0,23.6,2,18,9,50.0,0.76,0.38,0.11,0.22,7.9,0,0,0,2.5,2.5,0.14,-0.5,-0.5,Matches,Manchester-United,Premier-League
 375,Alejandro Garnacho,ar ARG,"MF,FW",20.0,24.4,6,84,29,34.5,3.44,1.19,0.07,0.21,17.0,0,0,0,7.3,7.3,0.09,-1.3,-1.3,Matches,Manchester-United,Premier-League
 376,Rasmus Højlund,dk DEN,FW,21.0,22.3,4,32,13,40.6,1.44,0.58,0.13,0.31,12.9,0,0,0,5.3,5.3,0.16,-1.3,-1.3,Matches,Manchester-United,Premier-League
-377,Manuel Ugarte Ribeiro,uy URU,MF,23.0,19.8,1,19,4,21.1,0.96,0.2,0.05,0.25,21.7,0,0,0,1.0,1.0,0.05,0.0,0.0,Matches,Manchester-United,Premier-League
+377,Manuel Ugarte,uy URU,MF,23.0,19.8,1,19,4,21.1,0.96,0.2,0.05,0.25,21.7,0,0,0,1.0,1.0,0.05,0.0,0.0,Matches,Manchester-United,Premier-League
 378,Amad Diallo,ci CIV,"MF,FW",22.0,21.1,8,47,17,36.2,2.23,0.8,0.17,0.47,17.5,0,0,0,4.7,4.7,0.1,3.3,3.3,Matches,Manchester-United,Premier-League
 379,Lisandro Martínez,ar ARG,DF,26.0,19.5,2,17,6,35.3,0.87,0.31,0.12,0.33,15.9,0,0,0,1.3,1.3,0.08,0.7,0.7,Matches,Manchester-United,Premier-League
 380,Harry Maguire,eng ENG,DF,31.0,19.5,1,15,6,40.0,0.77,0.31,0.07,0.17,8.2,0,0,0,1.8,1.8,0.12,-0.8,-0.8,Matches,Manchester-United,Premier-League
@@ -515,7 +515,7 @@
 513,Alfie Dorrington,eng ENG,DF,19.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Tottenham-Hotspur,Premier-League
 514,Will Lankshear,eng ENG,"FW,MF",19.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Tottenham-Hotspur,Premier-League
 515,Max Kilman,eng ENG,DF,27.0,37.2,0,13,2,15.4,0.35,0.05,0.0,0.0,8.9,0,0,0,1.6,1.6,0.13,-1.6,-1.6,Matches,West-Ham-United,Premier-League
-516,Aaron Wan-Bissaka,eng ENG,DF,26.0,35.0,2,16,5,31.3,0.46,0.14,0.13,0.4,15.1,0,0,0,1.2,1.2,0.07,0.8,0.8,Matches,West-Ham-United,Premier-League
+516,Aaron Wan-Bissaka,cd COD,DF,26.0,35.0,2,16,5,31.3,0.46,0.14,0.13,0.4,15.1,0,0,0,1.2,1.2,0.07,0.8,0.8,Matches,West-Ham-United,Premier-League
 517,Jarrod Bowen,eng ENG,"FW,MF",27.0,33.0,13,86,36,41.9,2.6,1.09,0.14,0.33,17.4,1,1,1,8.6,7.8,0.09,4.4,4.2,Matches,West-Ham-United,Premier-League
 518,Mohammed Kudus,gh GHA,"FW,MF",23.0,28.8,5,75,21,28.0,2.61,0.73,0.07,0.24,16.0,0,0,0,6.9,6.9,0.09,-1.9,-1.9,Matches,West-Ham-United,Premier-League
 519,Tomáš Souček,cz CZE,MF,29.0,28.5,9,55,17,30.9,1.93,0.6,0.16,0.53,11.9,0,0,0,6.7,6.7,0.13,2.3,2.3,Matches,West-Ham-United,Premier-League
@@ -550,7 +550,7 @@
 548,José Sá,pt POR,GK,31.0,29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Wolverhampton-Wanderers,Premier-League
 549,Matheus Cunha,br BRA,"MF,FW",25.0,28.9,15,110,44,40.0,3.81,1.52,0.14,0.34,20.5,12,0,0,8.6,8.6,0.08,6.4,6.4,Matches,Wolverhampton-Wanderers,Premier-League
 550,Matt Doherty,ie IRL,DF,32.0,23.4,2,10,3,30.0,0.43,0.13,0.2,0.67,11.4,0,0,0,1.0,1.0,0.1,1.0,1.0,Matches,Wolverhampton-Wanderers,Premier-League
-551,Jean-Ricner Bellegarde,fr FRA,"MF,FW",26.0,18.6,2,22,5,22.7,1.18,0.27,0.09,0.4,21.2,2,0,0,1.5,1.5,0.07,0.5,0.5,Matches,Wolverhampton-Wanderers,Premier-League
+551,Jean-Ricner Bellegarde,ht HAI,"MF,FW",26.0,18.6,2,22,5,22.7,1.18,0.27,0.09,0.4,21.2,2,0,0,1.5,1.5,0.07,0.5,0.5,Matches,Wolverhampton-Wanderers,Premier-League
 552,Santiago Bueno,uy URU,DF,25.0,18.7,0,6,3,50.0,0.32,0.16,0.0,0.0,14.0,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches,Wolverhampton-Wanderers,Premier-League
 553,Emmanuel Agbadou,ci CIV,DF,27.0,15.7,1,7,2,28.6,0.45,0.13,0.14,0.5,27.6,1,0,0,0.8,0.8,0.12,0.2,0.2,Matches,Wolverhampton-Wanderers,Premier-League
 554,Mario Lemina,ga GAB,"MF,DF",30.0,15.2,1,18,5,27.8,1.19,0.33,0.06,0.2,21.9,0,0,0,1.4,1.4,0.08,-0.4,-0.4,Matches,Wolverhampton-Wanderers,Premier-League
@@ -595,7 +595,7 @@
 593,Carlos Benavídez,uy URU,MF,26.0,5.4,1,5,2,40.0,0.92,0.37,0.2,0.5,21.4,0,0,0,0.3,0.3,0.05,0.7,0.7,Matches,Alaves,La-Liga
 594,Pica,es ESP,DF,22.0,5.5,0,4,1,25.0,0.72,0.18,0.0,0.0,10.7,0,0,0,0.3,0.3,0.08,-0.3,-0.3,Matches,Alaves,La-Liga
 595,Jesús Owono,gq EQG,GK,23.0,5.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Alaves,La-Liga
-596,Abderrahman Rebbach,dz ALG,"FW,MF",25.0,4.3,0,6,1,16.7,1.4,0.23,0.0,0.0,20.3,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches,Alaves,La-Liga
+596,Abde Rebbach,dz ALG,"FW,MF",25.0,4.3,0,6,1,16.7,1.4,0.23,0.0,0.0,20.3,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches,Alaves,La-Liga
 597,Asier Villalibre,es ESP,FW,26.0,3.7,1,8,1,12.5,2.16,0.27,0.0,0.0,14.7,0,1,1,1.6,0.8,0.1,-0.6,-0.8,Matches,Alaves,La-Liga
 598,Hugo Novoa,es ESP,"DF,MF",21.0,2.6,0,1,0,0.0,0.38,0.0,0.0,,9.7,0,0,0,0.5,0.5,0.49,-0.5,-0.5,Matches,Alaves,La-Liga
 599,Luka Romero,ar ARG,"FW,MF",19.0,2.2,0,1,0,0.0,0.45,0.0,0.0,,38.7,0,0,1,0.8,0.0,0.02,-0.8,0.0,Matches,Alaves,La-Liga
@@ -739,7 +739,7 @@
 737,Carlos Dominguez,es ESP,DF,23.0,13.1,0,3,1,33.3,0.23,0.08,0.0,0.0,8.5,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Matches,Celta-Vigo,La-Liga
 738,Damián Rodríguez,es ESP,MF,21.0,10.3,0,4,0,0.0,0.39,0.0,0.0,,27.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,Celta-Vigo,La-Liga
 739,Jonathan Bamba,ci CIV,"FW,MF",28.0,9.0,0,13,6,46.2,1.44,0.67,0.0,0.0,18.4,0,0,0,0.8,0.8,0.06,-0.8,-0.8,Matches,Celta-Vigo,La-Liga
-740,Fer López,,"FW,MF",,7.5,2,20,5,25.0,2.68,0.67,0.1,0.4,15.7,0,0,0,2.7,2.7,0.14,-0.7,-0.7,Matches,Celta-Vigo,La-Liga
+740,Fer López,es ESP,"FW,MF",20.0,7.5,2,20,5,25.0,2.68,0.67,0.1,0.4,15.7,0,0,0,2.7,2.7,0.14,-0.7,-0.7,Matches,Celta-Vigo,La-Liga
 741,Yoel Lago,es ESP,DF,20.0,6.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Celta-Vigo,La-Liga
 742,Javier Manquillo,es ESP,DF,30.0,5.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Celta-Vigo,La-Liga
 743,Anastasios Douvikas,gr GRE,FW,24.0,7.8,3,17,9,52.9,2.19,1.16,0.18,0.33,11.1,0,0,0,4.4,4.4,0.26,-1.4,-1.4,Matches,Celta-Vigo,La-Liga
@@ -771,7 +771,7 @@
 769,Fernando Calero,es ESP,"DF,MF",28.0,7.9,1,2,1,50.0,0.25,0.13,0.5,1.0,9.1,0,0,0,0.3,0.3,0.14,0.7,0.7,Matches,Espanyol,La-Liga
 770,Sergi Gómez,es ESP,DF,32.0,7.4,0,2,1,50.0,0.27,0.14,0.0,0.0,8.7,0,0,0,0.3,0.3,0.15,-0.3,-0.3,Matches,Espanyol,La-Liga
 771,Walid Cheddira,ma MAR,FW,26.0,7.1,1,13,4,30.8,1.83,0.56,0.08,0.25,12.7,0,0,0,1.0,1.0,0.08,0.0,0.0,Matches,Espanyol,La-Liga
-772,Irvin Cardona,fr FRA,"FW,MF",26.0,6.7,1,10,3,30.0,1.49,0.45,0.1,0.33,17.3,1,0,0,1.1,1.1,0.11,-0.1,-0.1,Matches,Espanyol,La-Liga
+772,Irvin Cardona,mt MLT,"FW,MF",26.0,6.7,1,10,3,30.0,1.49,0.45,0.1,0.33,17.3,1,0,0,1.1,1.1,0.11,-0.1,-0.1,Matches,Espanyol,La-Liga
 773,Álvaro Aguado,es ESP,MF,28.0,4.9,0,10,1,10.0,2.03,0.2,0.0,0.0,23.0,1,0,0,0.6,0.6,0.06,-0.6,-0.6,Matches,Espanyol,La-Liga
 774,Justin Smith,ca CAN,MF,21.0,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Espanyol,La-Liga
 775,Rafael Bauza,es ESP,MF,19.0,2.0,0,3,0,0.0,1.48,0.0,0.0,,23.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,Espanyol,La-Liga
@@ -861,7 +861,7 @@
 859,Adnan Januzaj,be BEL,"MF,FW",29.0,6.6,2,16,5,31.3,2.41,0.75,0.13,0.4,23.6,4,0,0,0.8,0.8,0.05,1.2,1.2,Matches,Las-Palmas,La-Liga
 860,Jaime Mata,es ESP,"FW,MF",35.0,7.3,0,17,6,35.3,2.33,0.82,0.0,0.0,11.3,0,0,0,2.6,2.6,0.15,-2.6,-2.6,Matches,Las-Palmas,La-Liga
 861,Benito Ramírez,es ESP,"DF,FW",29.0,5.3,0,10,1,10.0,1.88,0.19,0.0,0.0,22.7,1,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches,Las-Palmas,La-Liga
-862,Andy Pelmard,fr FRA,DF,24.0,2.3,0,1,0,0.0,0.44,0.0,0.0,,28.9,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches,Las-Palmas,La-Liga
+862,Andy Pelmard,mg MAD,DF,24.0,2.3,0,1,0,0.0,0.44,0.0,0.0,,28.9,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches,Las-Palmas,La-Liga
 863,Sergio Viera,es ESP,MF,19.0,1.1,0,1,0,0.0,0.94,0.0,0.0,,13.5,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,Las-Palmas,La-Liga
 864,Daley Sinkgraven,nl NED,DF,29.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Las-Palmas,La-Liga
 865,Marc Cardona,es ESP,"FW,DF",29.0,1.5,0,4,0,0.0,2.73,0.0,0.0,,15.0,0,0,0,0.4,0.4,0.09,-0.4,-0.4,Matches,Las-Palmas,La-Liga
@@ -935,8 +935,8 @@
 933,Enzo Boyomo,cm CMR,DF,22.0,33.2,2,12,3,25.0,0.36,0.09,0.17,0.67,12.4,0,0,0,1.5,1.5,0.12,0.5,0.5,Matches,Osasuna,La-Liga
 934,Rubén García,es ESP,"FW,MF",31.0,26.8,5,27,10,37.0,1.01,0.37,0.19,0.5,16.1,3,0,0,3.2,3.2,0.12,1.8,1.8,Matches,Osasuna,La-Liga
 935,Jon Moncayola,es ESP,MF,26.0,23.3,0,21,9,42.9,0.9,0.39,0.0,0.0,17.9,0,0,0,1.6,1.6,0.08,-1.6,-1.6,Matches,Osasuna,La-Liga
-936,Bryan Zaragoza,es ESP,"FW,MF",23.0,20.4,1,42,13,31.0,2.06,0.64,0.02,0.08,20.2,0,0,0,2.7,2.7,0.06,-1.7,-1.7,Matches,Osasuna,La-Liga
-937,Abel,es ESP,DF,23.0,23.0,2,12,4,33.3,0.52,0.17,0.17,0.5,22.9,0,0,0,0.5,0.5,0.04,1.5,1.5,Matches,Osasuna,La-Liga
+936,Bryan Zaragoza,es ESP,"FW,MF",22.0,20.4,1,42,13,31.0,2.06,0.64,0.02,0.08,20.2,0,0,0,2.7,2.7,0.06,-1.7,-1.7,Matches,Osasuna,La-Liga
+937,Abel Bretones,es ESP,DF,23.0,23.0,2,12,4,33.3,0.52,0.17,0.17,0.5,22.9,0,0,0,0.5,0.5,0.04,1.5,1.5,Matches,Osasuna,La-Liga
 938,Juan Cruz Armada,es ESP,DF,32.0,16.6,0,4,0,0.0,0.24,0.0,0.0,,16.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,Osasuna,La-Liga
 939,Jorge Herrando,es ESP,DF,23.0,15.2,1,12,3,25.0,0.79,0.2,0.08,0.33,11.2,0,0,0,1.2,1.2,0.1,-0.2,-0.2,Matches,Osasuna,La-Liga
 940,Pablo Ibáñez,es ESP,MF,25.0,14.4,1,20,5,25.0,1.39,0.35,0.05,0.2,20.8,0,0,0,1.6,1.6,0.08,-0.6,-0.6,Matches,Osasuna,La-Liga
@@ -1426,7 +1426,7 @@
 1424,Flavius Daniliuc,at AUT,DF,23.0,11.2,0,3,1,33.3,0.27,0.09,0.0,0.0,18.0,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,Hellas-Verona,Serie-A
 1425,Dailon Livramento,cv CPV,"FW,MF",23.0,10.4,1,13,4,30.8,1.24,0.38,0.08,0.25,12.0,0,0,0,1.8,1.8,0.14,-0.8,-0.8,Matches,Hellas-Verona,Serie-A
 1426,Grigoris Kastanos,cy CYP,"MF,FW",26.0,9.7,1,22,5,22.7,2.27,0.52,0.05,0.2,23.0,2,0,0,1.0,1.0,0.05,0.0,0.0,Matches,Hellas-Verona,Serie-A
-1427,Cheikh Tidiane Niasse,sn SEN,MF,24.0,8.4,0,3,1,33.3,0.36,0.12,0.0,0.0,21.8,0,0,0,0.4,0.4,0.13,-0.4,-0.4,Matches,Hellas-Verona,Serie-A
+1427,Cheikh Niasse,sn SEN,MF,24.0,8.4,0,3,1,33.3,0.36,0.12,0.0,0.0,21.8,0,0,0,0.4,0.4,0.13,-0.4,-0.4,Matches,Hellas-Verona,Serie-A
 1428,Antoine Bernede,fr FRA,MF,25.0,6.6,1,4,2,50.0,0.61,0.3,0.25,0.5,21.0,0,0,0,0.8,0.8,0.19,0.2,0.2,Matches,Hellas-Verona,Serie-A
 1429,Martin Frese,dk DEN,DF,26.0,6.1,0,2,0,0.0,0.33,0.0,0.0,,23.0,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,Hellas-Verona,Serie-A
 1430,Abdou Harroui,nl NED,"MF,FW",26.0,5.1,1,15,4,26.7,2.92,0.78,0.07,0.25,17.7,1,0,0,2.2,2.2,0.15,-1.2,-1.2,Matches,Hellas-Verona,Serie-A
@@ -1545,7 +1545,7 @@
 1543,Danilo Veiga,pt POR,DF,21.0,4.2,0,5,0,0.0,1.2,0.0,0.0,,17.1,0,0,0,0.6,0.6,0.12,-0.6,-0.6,Matches,Lecce,Serie-A
 1544,Konan N'dri,ci CIV,"FW,MF",23.0,3.4,0,9,2,22.2,2.65,0.59,0.0,0.0,19.2,0,0,0,0.5,0.5,0.06,-0.5,-0.5,Matches,Lecce,Serie-A
 1545,Valentin Gendrey,fr FRA,DF,24.0,2.0,0,2,0,0.0,1.0,0.0,0.0,,12.2,0,0,0,0.2,0.2,0.09,-0.2,-0.2,Matches,Lecce,Serie-A
-1546,Andy Pelmard,fr FRA,DF,24.0,1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Lecce,Serie-A
+1546,Andy Pelmard,mg MAD,DF,24.0,1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Lecce,Serie-A
 1547,Tiago Gabriel,pt POR,DF,19.0,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Lecce,Serie-A
 1548,Marco Sala,it ITA,DF,25.0,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Lecce,Serie-A
 1549,Kevin Bonifazi,it ITA,DF,28.0,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Lecce,Serie-A
@@ -1564,7 +1564,7 @@
 1562,Fikayo Tomori,eng ENG,DF,26.0,17.7,0,2,0,0.0,0.11,0.0,0.0,,12.5,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,Milan,Serie-A
 1563,Yunus Musah,us USA,"MF,FW",21.0,17.5,0,22,5,22.7,1.26,0.29,0.0,0.0,19.5,0,0,0,1.9,1.9,0.09,-1.9,-1.9,Matches,Milan,Serie-A
 1564,Emerson,br BRA,DF,25.0,15.3,0,10,2,20.0,0.65,0.13,0.0,0.0,20.3,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches,Milan,Serie-A
-1565,Alejandro Jiménez,es ESP,"DF,FW",19.0,14.1,0,15,5,33.3,1.07,0.36,0.0,0.0,22.1,0,0,0,0.8,0.8,0.06,-0.8,-0.8,Matches,Milan,Serie-A
+1565,Álex Jiménez,es ESP,"DF,FW",19.0,14.1,0,15,5,33.3,1.07,0.36,0.0,0.0,22.1,0,0,0,0.8,0.8,0.06,-0.8,-0.8,Matches,Milan,Serie-A
 1566,Álvaro Morata,es ESP,"FW,MF",31.0,12.2,5,27,10,37.0,2.21,0.82,0.19,0.5,11.3,0,0,0,3.9,3.9,0.15,1.1,1.1,Matches,Milan,Serie-A
 1567,Tammy Abraham,eng ENG,FW,26.0,13.1,3,26,11,42.3,1.98,0.84,0.08,0.18,13.4,0,1,2,7.1,5.4,0.21,-4.1,-3.4,Matches,Milan,Serie-A
 1568,Ruben Loftus-Cheek,eng ENG,MF,28.0,11.5,0,9,2,22.2,0.78,0.17,0.0,0.0,16.6,0,0,0,0.7,0.7,0.08,-0.7,-0.7,Matches,Milan,Serie-A
@@ -1735,7 +1735,7 @@
 1733,Ali Dembélé,fr FRA,DF,20.0,4.3,1,5,2,40.0,1.16,0.46,0.2,0.5,13.3,0,0,0,0.4,0.4,0.07,0.6,0.6,Matches,Torino,Serie-A
 1734,Alberto Paleari,it ITA,GK,31.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Torino,Serie-A
 1735,Raoul Bellanova,it ITA,DF,24.0,1.0,0,1,0,0.0,1.03,0.0,0.0,,8.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,Torino,Serie-A
-1736,Eybi Nije,se SWE,"FW,MF",19.0,4.4,1,9,5,55.6,2.06,1.14,0.11,0.2,18.9,0,0,0,1.5,1.5,0.17,-0.5,-0.5,Matches,Torino,Serie-A
+1736,Alieu Njie,se SWE,"FW,MF",19.0,4.4,1,9,5,55.6,2.06,1.14,0.11,0.2,18.9,0,0,0,1.5,1.5,0.17,-0.5,-0.5,Matches,Torino,Serie-A
 1737,Sergiu Perciun,md MDA,"FW,MF",18.0,1.7,0,2,1,50.0,1.18,0.59,0.0,0.0,22.4,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,Torino,Serie-A
 1738,Alessio Cacciamani,it ITA,"MF,DF",17.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Torino,Serie-A
 1739,Tommaso Gabellini,it ITA,FW,17.0,0.1,0,1,0,0.0,9.0,0.0,0.0,,28.9,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches,Torino,Serie-A
@@ -1934,7 +1934,7 @@
 1932,Jonathan Gradit,fr FRA,DF,31.0,23.5,0,16,4,25.0,0.68,0.17,0.0,0.0,17.4,0,0,0,0.8,0.8,0.05,-0.8,-0.8,Matches,Lens,Ligue-1
 1933,Florian Sotoca,fr FRA,"FW,MF",33.0,19.9,1,47,18,38.3,2.36,0.9,0.02,0.06,14.7,0,0,0,4.6,4.6,0.1,-3.6,-3.6,Matches,Lens,Ligue-1
 1934,Deiver Machado,co COL,"DF,MF",30.0,20.1,1,23,5,21.7,1.15,0.25,0.04,0.2,19.2,1,0,0,2.3,2.3,0.1,-1.3,-1.3,Matches,Lens,Ligue-1
-1935,Neil El Aynaoui,fr FRA,MF,23.0,17.6,8,16,7,43.8,0.91,0.4,0.31,0.71,20.4,1,3,3,4.0,1.6,0.1,4.0,3.4,Matches,Lens,Ligue-1
+1935,Neil El Aynaoui,ma MAR,MF,23.0,17.6,8,16,7,43.8,0.91,0.4,0.31,0.71,20.4,1,3,3,4.0,1.6,0.1,4.0,3.4,Matches,Lens,Ligue-1
 1936,M'Bala Nzola,ao ANG,FW,27.0,16.2,6,47,18,38.3,2.9,1.11,0.13,0.33,12.1,0,0,0,8.6,8.6,0.19,-2.6,-2.6,Matches,Lens,Ligue-1
 1937,Anass Zaroury,ma MAR,"FW,MF",23.0,15.6,2,35,12,34.3,2.24,0.77,0.06,0.17,22.4,0,0,0,1.7,1.7,0.05,0.3,0.3,Matches,Lens,Ligue-1
 1938,Przemysław Frankowski,pl POL,DF,29.0,15.4,4,14,5,35.7,0.91,0.32,0.14,0.4,21.9,1,2,2,2.3,0.7,0.05,1.7,1.3,Matches,Lens,Ligue-1
@@ -2037,7 +2037,7 @@
 2035,Ismaël Bennacer,dz ALG,MF,26.0,7.2,0,3,0,0.0,0.42,0.0,0.0,,24.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,Marseille,Ligue-1
 2036,Amine Harit,ma MAR,MF,27.0,5.8,2,8,5,62.5,1.39,0.87,0.25,0.4,19.1,1,0,0,0.8,0.8,0.1,1.2,1.2,Matches,Marseille,Ligue-1
 2037,Elye Wahi,fr FRA,FW,21.0,6.4,3,16,9,56.3,2.51,1.41,0.13,0.22,12.1,0,1,1,6.0,5.2,0.33,-3.0,-3.2,Matches,Marseille,Ligue-1
-2038,Jon Rowe,eng ENG,"FW,MF",21.0,9.0,3,36,15,41.7,4.01,1.67,0.08,0.2,16.8,0,0,0,3.5,3.5,0.1,-0.5,-0.5,Matches,Marseille,Ligue-1
+2038,Jonathan Rowe,eng ENG,"FW,MF",21.0,9.0,3,36,15,41.7,4.01,1.67,0.08,0.2,16.8,0,0,0,3.5,3.5,0.1,-0.5,-0.5,Matches,Marseille,Ligue-1
 2039,Pol Lirola,es ESP,DF,26.0,7.6,1,6,1,16.7,0.79,0.13,0.17,1.0,17.0,0,0,0,0.6,0.6,0.1,0.4,0.4,Matches,Marseille,Ligue-1
 2040,Bilal Nadir,ma MAR,MF,20.0,4.3,1,8,3,37.5,1.88,0.7,0.13,0.33,18.4,1,0,0,0.6,0.6,0.07,0.4,0.4,Matches,Marseille,Ligue-1
 2041,Ismaël Koné,ca CAN,"MF,FW",22.0,4.0,0,4,0,0.0,1.0,0.0,0.0,,22.5,0,0,0,0.3,0.3,0.07,-0.3,-0.3,Matches,Marseille,Ligue-1
@@ -2282,7 +2282,7 @@
 2280,Dylan Batubinsika,cd COD,DF,28.0,22.4,1,7,2,28.6,0.31,0.09,0.14,0.5,10.5,0,0,0,0.8,0.8,0.12,0.2,0.2,Matches,Saint-Etienne,Ligue-1
 2281,Benjamin Bouchouari,ma MAR,MF,22.0,19.7,1,16,3,18.8,0.81,0.15,0.06,0.33,23.6,0,0,0,0.6,0.6,0.04,0.4,0.4,Matches,Saint-Etienne,Ligue-1
 2282,Florian Tardieu,fr FRA,MF,32.0,13.9,2,16,3,18.8,1.15,0.22,0.13,0.67,22.2,0,0,0,0.6,0.6,0.04,1.4,1.4,Matches,Saint-Etienne,Ligue-1
-2283,Irvin Cardona,fr FRA,FW,26.0,11.8,5,23,10,43.5,1.95,0.85,0.22,0.5,14.7,0,0,1,4.5,3.7,0.18,0.5,1.3,Matches,Saint-Etienne,Ligue-1
+2283,Irvin Cardona,mt MLT,FW,26.0,11.8,5,23,10,43.5,1.95,0.85,0.22,0.5,14.7,0,0,1,4.5,3.7,0.18,0.5,1.3,Matches,Saint-Etienne,Ligue-1
 2284,Aimen Moueffek,fr FRA,MF,23.0,11.5,0,10,2,20.0,0.87,0.17,0.0,0.0,15.6,0,0,0,1.1,1.1,0.11,-1.1,-1.1,Matches,Saint-Etienne,Ligue-1
 2285,Louis Mouton,fr FRA,MF,22.0,11.6,0,19,3,15.8,1.64,0.26,0.0,0.0,22.5,0,0,0,1.3,1.3,0.07,-1.3,-1.3,Matches,Saint-Etienne,Ligue-1
 2286,Yunis Abdelhamid,ma MAR,DF,36.0,11.5,0,2,1,50.0,0.17,0.09,0.0,0.0,10.8,0,0,0,0.2,0.2,0.12,-0.2,-0.2,Matches,Saint-Etienne,Ligue-1
@@ -2308,7 +2308,7 @@
 2306,Đorđe Petrović,rs SRB,GK,24.0,31.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Strasbourg,Ligue-1
 2307,Ismaël Doukouré,fr FRA,"DF,MF",21.0,29.3,1,3,1,33.3,0.1,0.03,0.33,1.0,13.4,0,0,0,0.6,0.6,0.19,0.4,0.4,Matches,Strasbourg,Ligue-1
 2308,Guela Doué,ci CIV,DF,21.0,30.2,1,18,6,33.3,0.6,0.2,0.06,0.17,14.4,0,0,0,0.8,0.8,0.05,0.2,0.2,Matches,Strasbourg,Ligue-1
-2309,Diego Moreira,pt POR,"DF,MF",19.0,28.5,2,25,8,32.0,0.88,0.28,0.08,0.25,16.0,1,0,0,2.0,2.0,0.08,0.0,0.0,Matches,Strasbourg,Ligue-1
+2309,Diego Moreira,be BEL,"DF,MF",19.0,28.5,2,25,8,32.0,0.88,0.28,0.08,0.25,16.0,1,0,0,2.0,2.0,0.08,0.0,0.0,Matches,Strasbourg,Ligue-1
 2310,Dilane Bakwa,fr FRA,"MF,DF",21.0,27.7,6,52,22,42.3,1.87,0.79,0.12,0.27,21.3,6,0,0,4.7,4.7,0.09,1.3,1.3,Matches,Strasbourg,Ligue-1
 2311,Mamadou Sarr,fr FRA,DF,18.0,26.3,0,5,0,0.0,0.19,0.0,0.0,,6.7,0,0,0,0.8,0.8,0.16,-0.8,-0.8,Matches,Strasbourg,Ligue-1
 2312,Habib Diarra,sn SEN,"MF,FW",20.0,26.1,4,25,10,40.0,0.96,0.38,0.08,0.2,20.2,1,2,2,3.3,1.8,0.07,0.7,0.2,Matches,Strasbourg,Ligue-1
@@ -2320,7 +2320,7 @@
 2318,Abakar Sylla,ci CIV,DF,21.0,10.6,1,5,1,20.0,0.47,0.09,0.2,1.0,9.0,0,0,0,0.4,0.4,0.08,0.6,0.6,Matches,Strasbourg,Ligue-1
 2319,Sekou Mara,fr FRA,"FW,MF",22.0,8.5,1,19,5,26.3,2.23,0.59,0.05,0.2,16.2,0,0,0,2.0,2.0,0.11,-1.0,-1.0,Matches,Strasbourg,Ligue-1
 2320,Andrew Omobamidele,ie IRL,DF,22.0,6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Strasbourg,Ligue-1
-2321,Guimissongui Ouattara,fr FRA,"DF,FW",18.0,5.2,1,5,2,40.0,0.96,0.38,0.2,0.5,21.0,0,0,0,0.3,0.3,0.07,0.7,0.7,Matches,Strasbourg,Ligue-1
+2321,Abdoul Ouattara,fr FRA,"DF,FW",18.0,5.2,1,5,2,40.0,0.96,0.38,0.2,0.5,21.0,0,0,0,0.3,0.3,0.07,0.7,0.7,Matches,Strasbourg,Ligue-1
 2322,Samuel Amo-Ameyaw,eng ENG,"DF,MF",18.0,3.6,2,9,7,77.8,2.53,1.97,0.22,0.29,17.0,0,0,0,0.7,0.7,0.08,1.3,1.3,Matches,Strasbourg,Ligue-1
 2323,Karl-Johan Johnsson,se SWE,GK,34.0,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,Strasbourg,Ligue-1
 2324,Caleb Wiley,us USA,"DF,MF",19.0,3.0,0,1,0,0.0,0.34,0.0,0.0,,27.3,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,Strasbourg,Ligue-1
@@ -2814,7 +2814,7 @@
 2812,Felix Agu,ng NGA,DF,24.0,19.5,3,9,4,44.4,0.46,0.21,0.33,0.75,13.3,0,0,0,1.4,1.4,0.15,1.6,1.6,Matches,Werder-Bremen,Bundesliga
 2813,Anthony Jung,de GER,DF,32.0,21.1,0,1,0,0.0,0.05,0.0,0.0,,29.2,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches,Werder-Bremen,Bundesliga
 2814,Amos Pieper,de GER,DF,26.0,16.6,0,7,1,14.3,0.42,0.06,0.0,0.0,13.9,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Matches,Werder-Bremen,Bundesliga
-2815,Derrick Köhn,de GER,"DF,FW",25.0,14.9,2,13,4,30.8,0.87,0.27,0.15,0.5,15.7,0,0,0,0.7,0.7,0.06,1.3,1.3,Matches,Werder-Bremen,Bundesliga
+2815,Derrick Köhn,gh GHA,"DF,FW",25.0,14.9,2,13,4,30.8,0.87,0.27,0.15,0.5,15.7,0,0,0,0.7,0.7,0.06,1.3,1.3,Matches,Werder-Bremen,Bundesliga
 2816,Marco Grüll,at AUT,"FW,MF",26.0,13.1,6,25,10,40.0,1.91,0.76,0.24,0.6,15.9,1,0,0,4.0,4.0,0.16,2.0,2.0,Matches,Werder-Bremen,Bundesliga
 2817,Miloš Veljković,rs SRB,DF,28.0,11.4,0,2,1,50.0,0.17,0.09,0.0,0.0,2.1,0,0,0,0.6,0.6,0.28,-0.6,-0.6,Matches,Werder-Bremen,Bundesliga
 2818,Leonardo Bittencourt,de GER,MF,30.0,10.9,2,27,9,33.3,2.47,0.82,0.07,0.22,21.6,1,0,0,1.6,1.6,0.06,0.4,0.4,Matches,Werder-Bremen,Bundesliga
