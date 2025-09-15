@@ -180,7 +180,7 @@
 178,Ismaila Sarr,sn SEN,MF,26.0,30.1,22,10,10,9,3,8,25,32.0,17,27,8,19,9,31,40,0,Matches,Crystal-Palace,Premier-League
 179,Jefferson Lerma,co COL,"MF,DF",29.0,25.3,35,17,15,16,4,19,36,52.8,17,38,18,20,42,77,80,1,Matches,Crystal-Palace,Premier-League
 180,Will Hughes,eng ENG,MF,29.0,23.4,66,36,20,33,13,28,62,45.2,34,31,14,17,22,88,28,3,Matches,Crystal-Palace,Premier-League
-181,Chris Richards,us USA,DF,24.0,21.4,47,30,24,17,6,24,41,58.5,17,40,14,26,19,66,121,0,Matches,Crystal-Palace,Premier-League
+181,Chris Richards,us USA,DF,24.0,21.4,47,30,24,18,5,24,41,58.5,17,40,14,26,19,66,121,0,Matches,Crystal-Palace,Premier-League
 182,Adam Wharton,eng ENG,MF,20.0,14.6,34,14,14,16,4,17,44,38.6,27,11,2,9,20,54,27,0,Matches,Crystal-Palace,Premier-League
 183,Daichi Kamada,jp JPN,MF,27.0,17.4,47,29,19,24,4,14,41,34.1,27,22,5,17,18,65,14,0,Matches,Crystal-Palace,Premier-League
 184,Trevoh Chalobah,eng ENG,DF,25.0,11.8,20,16,7,12,1,12,23,52.2,11,19,9,10,19,39,57,3,Matches,Crystal-Palace,Premier-League
@@ -1831,7 +1831,7 @@
 1829,Sidiki Cherif,fr FRA,FW,17.0,3.6,5,5,1,3,1,3,4,75.0,1,4,1,3,0,5,0,1,Matches,Angers,Ligue-1
 1830,Marius Courcoul,fr FRA,"MF,DF",17.0,3.4,5,2,3,2,0,2,5,40.0,3,4,0,4,5,10,9,0,Matches,Angers,Ligue-1
 1831,Cédric Hountondji,bj BEN,DF,30.0,3.0,6,4,4,2,0,3,7,42.9,4,3,3,0,4,10,14,0,Matches,Angers,Ligue-1
-1832,Ousmane Camara,fr FRA,DF,21.0,2.8,4,3,3,1,0,1,2,50.0,1,1,1,0,0,4,18,0,Matches,Angers,Ligue-1
+1832,Ousmane Camara,ml MLI,DF,21.0,2.8,4,3,3,1,0,1,2,50.0,1,1,1,0,0,4,18,0,Matches,Angers,Ligue-1
 1833,Melvin Zinga,fr FRA,GK,22.0,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,Angers,Ligue-1
 1834,Enzo Caumont,fr FRA,MF,20.0,0.4,1,1,0,1,0,1,2,50.0,1,1,1,0,1,2,1,0,Matches,Angers,Ligue-1
 1835,Justin-Noël Kalumba,fr FRA,"FW,MF",19.0,0.3,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches,Angers,Ligue-1
@@ -2017,7 +2017,7 @@
 2015,Paul Akouokou,ci CIV,MF,26.0,0.2,1,0,0,1,0,0,0,,0,0,0,0,1,2,0,1,Matches,Lyon,Ligue-1
 2016,Mahamadou Diawara,fr FRA,MF,19.0,0.2,1,0,0,1,0,1,3,33.3,2,2,0,2,0,1,0,0,Matches,Lyon,Ligue-1
 2017,Warmed Omari,km COM,DF,24.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,Lyon,Ligue-1
-2018,Téo Barisic,fr FRA,DF,19.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,Lyon,Ligue-1
+2018,Téo Barisic,hr CRO,DF,19.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,Lyon,Ligue-1
 2019,Adryelson,br BRA,DF,26.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches,Lyon,Ligue-1
 2020,Gerónimo Rulli,ar ARG,GK,32.0,34.0,4,3,4,0,0,4,8,50.0,4,1,0,1,1,5,25,3,Matches,Marseille,Ligue-1
 2021,Mason Greenwood,eng ENG,"FW,MF",22.0,31.2,35,18,10,14,11,16,39,41.0,23,7,0,7,12,47,5,2,Matches,Marseille,Ligue-1

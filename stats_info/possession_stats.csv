@@ -180,7 +180,7 @@
 178,Ismaila Sarr,sn SEN,MF,26.0,30.1,1091,48,180,411,511,135,1091,61,17,27.9,35,57.4,607,3721,2108,75,47,28,70,43,739,183,Matches,Crystal-Palace,Premier-League
 179,Jefferson Lerma,co COL,"MF,DF",29.0,25.3,1406,124,469,703,244,29,1406,13,7,53.8,4,30.8,649,2478,1100,13,11,0,15,18,803,26,Matches,Crystal-Palace,Premier-League
 180,Will Hughes,eng ENG,MF,29.0,23.4,1203,48,295,615,308,17,1203,16,5,31.3,7,43.8,532,2718,1276,20,24,1,21,30,659,27,Matches,Crystal-Palace,Premier-League
-181,Chris Richards,us USA,DF,24.0,21.4,1118,134,611,439,74,19,1118,6,1,16.7,5,83.3,517,2316,964,6,5,0,5,5,614,2,Matches,Crystal-Palace,Premier-League
+181,Chris Richards,us USA,DF,24.0,21.4,1118,134,611,440,73,18,1118,6,1,16.7,5,83.3,517,2316,964,6,5,0,5,5,614,2,Matches,Crystal-Palace,Premier-League
 182,Adam Wharton,eng ENG,MF,20.0,14.6,872,30,204,463,212,11,872,10,2,20.0,8,80.0,430,2014,1078,14,23,2,17,13,533,11,Matches,Crystal-Palace,Premier-League
 183,Daichi Kamada,jp JPN,MF,27.0,17.4,937,19,208,496,240,32,937,19,7,36.8,9,47.4,485,2295,1121,25,19,6,16,20,600,56,Matches,Crystal-Palace,Premier-League
 184,Trevoh Chalobah,eng ENG,DF,25.0,11.8,594,66,275,276,51,14,594,10,6,60.0,2,20.0,278,1213,661,11,9,1,4,7,317,6,Matches,Crystal-Palace,Premier-League
@@ -1831,7 +1831,7 @@
 1829,Sidiki Cherif,fr FRA,FW,17.0,3.6,107,1,7,50,51,12,107,12,3,25.0,8,66.7,71,404,183,8,5,3,11,9,78,16,Matches,Angers,Ligue-1
 1830,Marius Courcoul,fr FRA,"MF,DF",17.0,3.4,191,10,59,100,34,1,191,5,1,20.0,4,80.0,90,462,191,5,1,0,4,0,116,7,Matches,Angers,Ligue-1
 1831,Cédric Hountondji,bj BEN,DF,30.0,3.0,127,20,65,58,4,1,127,0,0,,0,,48,201,63,0,0,0,2,0,64,0,Matches,Angers,Ligue-1
-1832,Ousmane Camara,fr FRA,DF,21.0,2.8,126,23,81,43,2,2,126,0,0,,0,,70,335,196,0,0,0,1,1,82,0,Matches,Angers,Ligue-1
+1832,Ousmane Camara,ml MLI,DF,21.0,2.8,126,23,81,43,2,2,126,0,0,,0,,70,335,196,0,0,0,1,1,82,0,Matches,Angers,Ligue-1
 1833,Melvin Zinga,fr FRA,GK,22.0,1.0,35,30,35,0,0,0,35,0,0,,0,,16,108,61,0,0,0,0,0,12,0,Matches,Angers,Ligue-1
 1834,Enzo Caumont,fr FRA,MF,20.0,0.4,20,2,7,6,7,0,20,0,0,,0,,10,35,24,0,0,0,0,0,13,0,Matches,Angers,Ligue-1
 1835,Justin-Noël Kalumba,fr FRA,"FW,MF",19.0,0.3,18,0,2,5,11,1,18,2,1,50.0,1,50.0,13,88,31,1,1,0,2,2,14,3,Matches,Angers,Ligue-1
@@ -2017,7 +2017,7 @@
 2015,Paul Akouokou,ci CIV,MF,26.0,0.2,18,2,5,13,0,0,18,0,0,,0,,14,38,10,0,0,0,1,0,14,0,Matches,Lyon,Ligue-1
 2016,Mahamadou Diawara,fr FRA,MF,19.0,0.2,9,0,0,8,2,1,9,0,0,,0,,2,36,28,1,1,0,0,1,3,0,Matches,Lyon,Ligue-1
 2017,Warmed Omari,km COM,DF,24.0,0.1,7,0,7,0,0,0,7,0,0,,0,,3,6,4,0,0,0,0,0,5,0,Matches,Lyon,Ligue-1
-2018,Téo Barisic,fr FRA,DF,19.0,0.0,2,1,2,0,0,0,2,0,0,,0,,1,0,0,0,0,0,0,0,1,0,Matches,Lyon,Ligue-1
+2018,Téo Barisic,hr CRO,DF,19.0,0.0,2,1,2,0,0,0,2,0,0,,0,,1,0,0,0,0,0,0,0,1,0,Matches,Lyon,Ligue-1
 2019,Adryelson,br BRA,DF,26.0,0.0,5,1,2,3,0,0,5,0,0,,0,,1,0,0,0,0,0,0,0,1,0,Matches,Lyon,Ligue-1
 2020,Gerónimo Rulli,ar ARG,GK,32.0,34.0,1300,1008,1285,15,0,0,1300,0,0,,0,,789,3335,1782,0,0,0,1,0,758,0,Matches,Marseille,Ligue-1
 2021,Mason Greenwood,eng ENG,"FW,MF",22.0,31.2,1746,4,107,726,929,151,1737,129,54,41.9,66,51.2,1214,7040,3609,126,71,67,63,44,1451,295,Matches,Marseille,Ligue-1
@@ -2177,17 +2177,17 @@
 2175,Bernard Nguene,cm CMR,FW,17.0,0.1,5,0,0,3,2,0,5,1,0,0.0,1,100.0,4,11,5,0,0,0,1,0,5,1,Matches,Nice,Ligue-1
 2176,Bradley Barcola,fr FRA,FW,21.0,24.2,1278,13,84,393,814,214,1278,137,34,24.8,94,68.6,855,5835,3505,137,65,95,64,20,1019,374,Matches,Paris-Saint-Germain,Ligue-1
 2177,Gianluigi Donnarumma,it ITA,GK,25.0,23.2,677,559,665,12,0,0,677,0,0,,0,,349,1664,1055,0,0,0,0,0,366,0,Matches,Paris-Saint-Germain,Ligue-1
-2178,Achraf Hakimi,ma MAR,DF,25.0,23.0,2371,40,430,980,974,81,2371,52,26,50.0,21,40.4,1384,6025,3501,93,57,21,38,15,1817,274,Matches,Paris-Saint-Germain,Ligue-1
+2178,Achraf Hakimi,ma MAR,DF,25.0,23.0,2371,40,430,980,974,81,2371,52,26,50.0,21,40.4,1384,6012,3501,93,57,21,38,15,1817,273,Matches,Paris-Saint-Germain,Ligue-1
 2179,Willian Pacho,ec ECU,DF,22.0,23.7,2223,244,921,1269,43,8,2223,7,2,28.6,4,57.1,1399,5986,2592,3,3,0,15,4,1697,1,Matches,Paris-Saint-Germain,Ligue-1
 2180,Warren Zaïre-Emery,fr FRA,"MF,DF",18.0,22.8,1908,49,314,1051,555,32,1908,37,20,54.1,17,45.9,1211,6383,3200,49,63,6,39,32,1506,92,Matches,Paris-Saint-Germain,Ligue-1
 2181,Lucas Beraldo,br BRA,DF,20.0,22.3,2314,223,870,1372,78,15,2314,1,1,100.0,0,0.0,1395,5489,3292,9,15,0,10,2,1847,0,Matches,Paris-Saint-Germain,Ligue-1
 2182,João Neves,pt POR,"MF,DF",19.0,20.5,1851,46,323,1051,494,55,1851,30,16,53.3,11,36.7,1018,4913,2262,35,44,3,26,16,1397,80,Matches,Paris-Saint-Germain,Ligue-1
 2183,Fabián Ruiz Peña,es ESP,MF,28.0,21.4,1807,47,254,1050,515,62,1807,20,14,70.0,6,30.0,1037,5225,2737,47,42,8,24,16,1430,92,Matches,Paris-Saint-Germain,Ligue-1
 2184,Vitinha,pt POR,MF,24.0,22.7,2581,58,356,1617,623,32,2579,40,27,67.5,10,25.0,1756,8873,4225,53,59,9,30,19,2160,57,Matches,Paris-Saint-Germain,Ligue-1
-2185,Ousmane Dembélé,fr FRA,FW,27.0,19.2,1323,2,47,481,805,161,1322,95,42,44.2,51,53.7,878,6064,3447,127,87,66,41,32,1127,252,Matches,Paris-Saint-Germain,Ligue-1
+2185,Ousmane Dembélé,fr FRA,FW,27.0,19.2,1323,2,47,481,805,161,1322,95,42,44.2,51,53.7,877,6058,3446,127,87,66,41,32,1127,252,Matches,Paris-Saint-Germain,Ligue-1
 2186,Marquinhos,br BRA,DF,30.0,19.2,1990,179,610,1271,114,13,1990,4,3,75.0,1,25.0,1335,6601,4472,29,25,0,4,1,1603,4,Matches,Paris-Saint-Germain,Ligue-1
-2187,Nuno Mendes,pt POR,DF,22.0,18.6,1701,55,375,880,464,42,1701,53,31,58.5,21,39.6,990,4832,3207,58,43,12,28,22,1215,108,Matches,Paris-Saint-Germain,Ligue-1
-2188,Lee Kang-in,kr KOR,"FW,MF",23.0,18.5,1432,13,107,616,720,68,1432,51,29,56.9,19,37.3,938,4933,2194,50,45,18,22,26,1172,138,Matches,Paris-Saint-Germain,Ligue-1
+2187,Nuno Mendes,pt POR,DF,22.0,18.6,1701,55,375,880,464,42,1701,53,31,58.5,21,39.6,991,4832,3207,58,43,12,28,22,1215,108,Matches,Paris-Saint-Germain,Ligue-1
+2188,Lee Kang-in,kr KOR,"FW,MF",23.0,18.5,1432,13,107,616,720,68,1432,51,29,56.9,19,37.3,938,4916,2194,50,44,18,22,26,1172,139,Matches,Paris-Saint-Germain,Ligue-1
 2189,Désiré Doué,fr FRA,"FW,MF",19.0,19.2,1461,4,137,646,701,123,1461,129,57,44.2,61,47.3,899,5730,3076,97,50,47,54,37,1164,232,Matches,Paris-Saint-Germain,Ligue-1
 2190,Gonçalo Ramos,pt POR,FW,23.0,11.8,353,6,27,108,220,97,350,11,1,9.1,9,81.8,155,755,342,11,6,4,16,11,282,63,Matches,Paris-Saint-Germain,Ligue-1
 2191,Khvicha Kvaratskhelia,ge GEO,FW,23.0,10.2,668,4,31,242,404,71,668,53,25,47.2,25,47.2,444,2947,1517,50,37,28,19,25,555,131,Matches,Paris-Saint-Germain,Ligue-1
