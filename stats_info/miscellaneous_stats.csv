@@ -309,7 +309,7 @@
 307,Danny Ward,wls WAL,GK,31.0,1.5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,Leicester-City,Premier-League
 308,Hamza Choudhury,bd BAN,"MF,DF",26.0,1.5,0,0,0,1,0,0,5,5,1,0,0,0,2,0,0,,Matches,Leicester-City,Premier-League
 309,Woyo Coulibaly,ml MLI,DF,25.0,1.2,1,0,0,2,1,0,0,5,4,0,0,0,14,0,3,0.0,Matches,Leicester-City,Premier-League
-310,Jeremy Monga,,"FW,MF",,1.2,0,0,0,0,5,0,4,0,1,0,0,0,10,0,1,0.0,Matches,Leicester-City,Premier-League
+310,Jeremy Monga,,"FW,MF",15.0,1.2,0,0,0,0,5,0,4,0,1,0,0,0,10,0,1,0.0,Matches,Leicester-City,Premier-League
 311,Odsonne Édouard,fr FRA,FW,26.0,0.3,0,0,0,2,0,0,0,0,1,0,0,0,1,1,1,50.0,Matches,Leicester-City,Premier-League
 312,Jake Evans,,FW,,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0.0,Matches,Leicester-City,Premier-League
 313,Olabade Aluko,,DF,,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Matches,Leicester-City,Premier-League
@@ -720,7 +720,7 @@
 718,Rodri,es ESP,FW,24.0,1.3,0,0,0,2,2,1,6,1,1,0,0,0,10,0,2,0.0,Matches,Real-Betis,La-Liga
 719,Nobel Mendy,fr FRA,DF,19.0,1.2,1,0,0,1,1,0,0,4,0,0,0,0,7,1,0,100.0,Matches,Real-Betis,La-Liga
 720,Sergio Arribas,es ESP,DF,21.0,1.0,0,0,0,0,0,0,0,3,4,0,0,0,3,1,0,100.0,Matches,Real-Betis,La-Liga
-721,Pablo Garcia,es ESP,FW,17.0,0.4,0,0,0,0,0,1,2,0,0,0,0,0,3,0,0,,Matches,Real-Betis,La-Liga
+721,Pablo Garcia,es ESP,FW,18.0,0.4,0,0,0,0,0,1,2,0,0,0,0,0,3,0,0,,Matches,Real-Betis,La-Liga
 722,Vicente Guaita,es ESP,GK,37.0,34.0,0,0,0,0,5,0,0,0,0,0,0,0,75,10,0,100.0,Matches,Celta-Vigo,La-Liga
 723,Óscar Mingueza,es ESP,"MF,DF",25.0,30.3,6,1,0,24,31,2,139,22,24,1,0,0,138,11,11,50.0,Matches,Celta-Vigo,La-Liga
 724,Marcos Alonso,es ESP,DF,33.0,29.4,10,2,1,31,28,2,42,34,21,0,1,0,176,70,42,62.5,Matches,Celta-Vigo,La-Liga
@@ -830,7 +830,7 @@
 828,Cristhian Stuani,uy URU,FW,37.0,12.0,4,0,0,35,7,11,2,7,7,0,0,0,14,22,17,56.4,Matches,Girona,La-Liga
 829,Portu,es ESP,"FW,MF",32.0,8.7,4,0,0,14,10,7,26,0,7,0,0,0,24,10,12,45.5,Matches,Girona,La-Liga
 830,Jhon Solis,co COL,MF,19.0,5.9,3,0,0,9,6,0,3,4,7,0,0,0,27,3,5,37.5,Matches,Girona,La-Liga
-831,Krapyvtsov Vladyslav,ua UKR,GK,19.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches,Girona,La-Liga
+831,Vladyslav Krapyvtsov,ua UKR,GK,19.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches,Girona,La-Liga
 832,Silvi Clúa,es ESP,MF,19.0,1.8,0,0,0,5,0,0,0,2,7,0,0,0,4,6,3,66.7,Matches,Girona,La-Liga
 833,Gabriel Osei Misehouy,nl NED,"FW,MF",19.0,2.9,0,0,0,1,5,2,6,0,1,0,0,0,11,0,3,0.0,Matches,Girona,La-Liga
 834,Iker Almena,es ESP,"FW,DF",20.0,0.5,0,0,0,0,1,0,4,0,0,0,0,0,2,0,0,,Matches,Girona,La-Liga
@@ -1327,7 +1327,7 @@
 1325,Sebastian Walukiewicz,pl POL,DF,24.0,2.0,0,0,0,4,0,0,2,1,0,0,0,0,6,5,3,62.5,Matches,Empoli,Serie-A
 1326,Jacopo Seghetti,it ITA,GK,19.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,Empoli,Serie-A
 1327,Emmanuel Ekong,se SWE,"MF,FW",22.0,2.1,1,0,0,3,5,1,0,1,3,0,0,0,10,2,7,22.2,Matches,Empoli,Serie-A
-1328,Ismael Konate,ci CIV,"FW,MF",18.0,1.3,0,0,0,5,2,0,1,0,2,0,0,0,3,5,8,38.5,Matches,Empoli,Serie-A
+1328,Ismael Konate,it ITA,"FW,MF",18.0,1.3,0,0,0,5,2,0,1,0,2,0,0,0,3,5,8,38.5,Matches,Empoli,Serie-A
 1329,Szymon Żurkowski,pl POL,MF,26.0,1.2,0,0,0,2,1,0,0,1,4,0,0,0,10,0,0,,Matches,Empoli,Serie-A
 1330,Viktor Kovalenko,ua UKR,MF,28.0,0.9,0,0,0,2,2,0,1,0,1,0,0,0,3,3,3,50.0,Matches,Empoli,Serie-A
 1331,Tyronne Ebuehi,ng NGA,"DF,MF",28.0,0.8,0,0,0,0,2,0,2,2,2,0,0,0,6,3,2,60.0,Matches,Empoli,Serie-A
@@ -2086,7 +2086,7 @@
 2084,Enzo Tchato,cm CMR,DF,21.0,21.1,3,0,0,21,16,2,77,22,26,0,0,0,60,19,12,61.3,Matches,Montpellier,Ligue-1
 2085,Becir Omeragic,ch SUI,DF,22.0,20.0,1,0,0,13,10,0,7,13,16,0,0,1,75,20,34,37.0,Matches,Montpellier,Ligue-1
 2086,Jordan Ferri,fr FRA,MF,32.0,19.7,6,1,0,35,30,0,25,9,23,0,3,0,132,13,15,46.4,Matches,Montpellier,Ligue-1
-2087,Rabby Nzingoula,cg CGO,MF,18.0,18.8,11,0,0,37,43,2,16,29,42,0,0,0,99,17,20,45.9,Matches,Montpellier,Ligue-1
+2087,Rabby Nzingoula,fr FRA,MF,18.0,18.8,11,0,0,37,43,2,16,29,42,0,0,0,99,17,20,45.9,Matches,Montpellier,Ligue-1
 2088,Tanguy Coulibaly,fr FRA,"FW,MF",23.0,16.5,4,2,1,45,21,3,21,11,24,0,1,0,70,19,23,45.2,Matches,Montpellier,Ligue-1
 2089,Issiaga Sylla,gn GUI,DF,30.0,12.8,2,0,0,13,6,3,36,10,10,0,0,0,51,22,18,55.0,Matches,Montpellier,Ligue-1
 2090,Falaye Sacko,ml MLI,DF,29.0,13.7,1,0,0,15,6,1,12,13,8,0,2,0,52,8,14,36.4,Matches,Montpellier,Ligue-1
