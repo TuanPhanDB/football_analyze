@@ -623,7 +623,7 @@
 621,Mikel Vesga,es ESP,MF,31.0,11.0,653,30,143,398,119,11,652,12,7,58.3,5,41.7,291,1242,591,10,13,3,11,9,400,22,Matches,Athletic-Club,La-Liga
 622,Iñigo Lekue,es ESP,DF,31.0,8.6,521,32,157,258,108,4,521,14,6,42.9,8,57.1,245,1062,515,13,6,1,5,5,268,21,Matches,Athletic-Club,La-Liga
 623,Maroan Sannadi,ma MAR,FW,23.0,8.4,282,2,12,128,145,44,282,30,14,46.7,13,43.3,198,1096,512,21,7,9,41,18,237,67,Matches,Athletic-Club,La-Liga
-624,Álvaro djaló,es ESP,FW,24.0,7.3,230,3,26,77,134,25,230,36,14,38.9,17,47.2,151,986,562,22,23,6,29,13,177,60,Matches,Athletic-Club,La-Liga
+624,Álvaro djaló,gw GNB,FW,24.0,7.3,230,3,26,77,134,25,230,36,14,38.9,17,47.2,151,986,562,22,23,6,29,13,177,60,Matches,Athletic-Club,La-Liga
 625,Unai Núñez,es ESP,DF,27.0,7.2,415,55,199,216,3,2,415,3,2,66.7,0,0.0,225,1108,554,2,0,0,6,0,245,0,Matches,Athletic-Club,La-Liga
 626,Alex Padilla,es ESP,GK,20.0,3.6,134,110,131,3,0,0,134,0,0,,0,,69,383,239,0,0,0,0,0,46,0,Matches,Athletic-Club,La-Liga
 627,Ander Herrera,es ESP,MF,34.0,3.0,237,12,37,151,49,6,236,5,2,40.0,1,20.0,116,431,196,2,4,0,3,2,169,5,Matches,Athletic-Club,La-Liga
@@ -1170,7 +1170,7 @@
 1168,Juan Bernat,es ESP,"DF,MF",31.0,2.4,160,10,42,63,56,13,160,8,3,37.5,5,62.5,83,347,168,4,3,1,3,2,100,23,Matches,Villarreal,La-Liga
 1169,Ramón Terrats,es ESP,"MF,FW",23.0,1.5,106,8,25,54,27,2,106,6,1,16.7,5,83.3,64,194,69,1,0,0,6,2,75,3,Matches,Villarreal,La-Liga
 1170,Pau Cabanes,es ESP,"MF,FW",19.0,1.8,122,2,17,35,71,11,122,12,5,41.7,6,50.0,74,467,245,10,9,5,8,3,89,33,Matches,Villarreal,La-Liga
-1171,Etta Eyong,cm CMR,"MF,FW",20.0,0.4,9,0,1,2,6,1,9,0,0,,0,,5,15,0,0,0,0,4,0,5,0,Matches,Villarreal,La-Liga
+1171,Karl Etta Eyong,cm CMR,"MF,FW",20.0,0.4,9,0,1,2,6,1,9,0,0,,0,,5,15,0,0,0,0,4,0,5,0,Matches,Villarreal,La-Liga
 1172,Arnau Solà,es ESP,MF,21.0,0.1,3,0,2,0,1,0,3,0,0,,0,,1,0,0,0,0,0,0,0,2,0,Matches,Villarreal,La-Liga
 1173,Daniel Requena,es ESP,MF,20.0,0.1,5,0,0,4,1,1,5,0,0,,0,,2,10,9,0,0,0,0,0,5,1,Matches,Villarreal,La-Liga
 1174,Thiago Ojeda,ar ARG,MF,21.0,0.1,11,1,2,5,4,0,11,0,0,,0,,5,42,34,1,1,0,1,0,7,0,Matches,Villarreal,La-Liga
@@ -2126,7 +2126,7 @@
 2124,Anthony Lopes,pt POR,GK,33.0,17.4,597,489,591,6,0,0,597,0,0,,0,,320,1763,1169,0,0,0,1,0,276,0,Matches,Nantes,Ligue-1
 2125,Nathan Zeze,fr FRA,DF,19.0,16.8,1083,155,572,498,19,6,1083,4,3,75.0,1,25.0,600,2809,1477,2,2,0,9,1,678,0,Matches,Nantes,Ligue-1
 2126,Sorba Thomas,wls WAL,"FW,MF",24.0,14.7,674,25,111,276,303,20,674,24,9,37.5,14,58.3,372,2173,1059,41,29,7,26,25,427,93,Matches,Nantes,Ligue-1
-2127,Alban Lafont,fr FRA,GK,25.0,12.0,408,334,401,7,0,0,408,0,0,,0,,228,1065,545,0,0,0,0,0,212,0,Matches,Nantes,Ligue-1
+2127,Alban Lafont,ci CIV,GK,25.0,12.0,408,334,401,7,0,0,408,0,0,,0,,228,1065,545,0,0,0,0,0,212,0,Matches,Nantes,Ligue-1
 2128,Mostafa Mohamed,eg EGY,FW,26.0,13.9,452,34,69,177,217,76,452,26,12,46.2,14,53.8,239,1011,438,11,15,2,47,22,285,50,Matches,Nantes,Ligue-1
 2129,Marcus Coco,fr FRA,DF,28.0,10.6,608,47,198,295,119,4,608,10,3,30.0,7,70.0,297,1329,583,12,9,1,11,6,345,40,Matches,Nantes,Ligue-1
 2130,Saidou Sow,gn GUI,DF,22.0,8.9,511,111,306,196,10,6,511,6,4,66.7,2,33.3,288,1336,703,2,1,0,2,2,314,0,Matches,Nantes,Ligue-1
@@ -2601,7 +2601,7 @@
 2599,David Jurásek,cz CZE,DF,23.0,6.9,499,16,132,194,176,9,499,12,3,25.0,8,66.7,238,1299,599,17,21,1,6,5,310,42,Matches,Hoffenheim,Bundesliga
 2600,Luca Philipp,de GER,GK,23.0,6.0,215,177,213,2,0,0,215,0,0,,0,,100,530,230,0,0,0,0,0,89,0,Matches,Hoffenheim,Bundesliga
 2601,Diadie Samassékou,ml MLI,MF,28.0,3.2,190,8,36,114,42,1,190,5,4,80.0,1,20.0,92,317,112,3,3,0,1,3,122,2,Matches,Hoffenheim,Bundesliga
-2602,Max Moerstedt,de GER,FW,,5.0,159,6,15,62,85,31,159,4,1,25.0,3,75.0,84,310,128,6,2,3,13,11,125,36,Matches,Hoffenheim,Bundesliga
+2602,Max Moerstedt,de GER,FW,18.0,5.0,159,6,15,62,85,31,159,4,1,25.0,3,75.0,84,310,128,6,2,3,13,11,125,36,Matches,Hoffenheim,Bundesliga
 2603,Tim Drexler,de GER,DF,19.0,4.0,223,18,91,125,11,0,223,0,0,,0,,128,483,208,2,2,0,3,5,143,2,Matches,Hoffenheim,Bundesliga
 2604,Jacob Bruun Larsen,dk DEN,"FW,MF",25.0,4.4,226,3,17,82,133,30,226,21,7,33.3,13,61.9,147,896,471,16,13,8,9,9,167,41,Matches,Hoffenheim,Bundesliga
 2605,Umut Tohumcu,de GER,"MF,FW",19.0,4.2,169,8,45,90,36,0,169,7,4,57.1,3,42.9,91,368,193,3,2,0,3,7,102,5,Matches,Hoffenheim,Bundesliga
@@ -2610,7 +2610,7 @@
 2608,Robin Hranáč,cz CZE,DF,24.0,2.4,170,14,64,104,3,1,170,0,0,,0,,107,466,248,2,2,0,1,0,118,0,Matches,Hoffenheim,Bundesliga
 2609,Grischa Prömel,de GER,MF,29.0,1.9,106,4,19,71,18,0,106,1,0,0.0,1,100.0,70,300,137,2,1,0,2,2,82,3,Matches,Hoffenheim,Bundesliga
 2610,Florian Micheler,at AUT,MF,19.0,0.4,12,0,2,6,4,0,12,1,1,100.0,0,0.0,11,48,28,1,1,0,0,0,10,1,Matches,Hoffenheim,Bundesliga
-2611,Hannes Behrens,de GER,DF,,0.3,27,0,2,11,14,2,27,1,1,100.0,0,0.0,13,59,25,0,1,0,2,0,13,7,Matches,Hoffenheim,Bundesliga
+2611,Hannes Behrens,de GER,DF,19.0,0.3,27,0,2,11,14,2,27,1,1,100.0,0,0.0,13,59,25,0,1,0,2,0,13,7,Matches,Hoffenheim,Bundesliga
 2612,David Mokwa,fr FRA,"DF,FW",20.0,0.2,11,0,2,4,5,2,11,1,1,100.0,0,0.0,5,29,9,0,0,0,2,2,5,0,Matches,Hoffenheim,Bundesliga
 2613,Paul Hennrich,de GER,MF,19.0,0.1,6,0,2,0,4,0,6,2,0,0.0,1,50.0,3,27,10,1,0,0,1,0,2,0,Matches,Hoffenheim,Bundesliga
 2614,Ihlas Bebou,tg TOG,MF,30.0,0.1,5,0,0,2,3,1,5,0,0,,0,,4,6,1,0,0,0,1,0,5,0,Matches,Hoffenheim,Bundesliga
